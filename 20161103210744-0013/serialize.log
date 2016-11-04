@@ -1,0 +1,401 @@
+16/11/03 21:09:27 INFO serializeLogger: [CreationPYRE]StartAt:1478228967845,Parent RDD ID:11,Name:UnionRDD,TaskAttempt ID:35,Partition Id:8,Stage Id:3
+16/11/03 21:09:27 INFO serializeLogger: [CreationPYRE]StartAt:1478228967845,Parent RDD ID:11,Name:UnionRDD,TaskAttempt ID:27,Partition Id:6,Stage Id:3
+16/11/03 21:09:27 INFO serializeLogger: [CreationPYRE]EndAt:1478228967865,Parent RDD ID:11,Name:UnionRDD,TaskAttempt ID:27,Partition Id:6,Stage Id:3
+16/11/03 21:09:27 INFO serializeLogger: [CreationPYRE]EndAt:1478228967865,Parent RDD ID:11,Name:UnionRDD,TaskAttempt ID:35,Partition Id:8,Stage Id:3
+16/11/03 21:09:27 INFO serializeLogger: [RunnerCompute]StartAt:1478228967866,Parent RDD ID:11,Name:UnionRDD,TaskAttempt ID:27,Partition Id:6,Stage Id:3
+16/11/03 21:09:27 INFO serializeLogger: [RunnerComp16/11/03 21:09:26 INFO serializeLogger: [writerThread]EndAt:1478228966446,Parent RDD ID:1,Name:../ml-20m/clean.dat,TaskAttempt ID:24,Partition 16/11/03 21:09:316/11/03 21:10:54 INFO serializeLogger: [CreationPYRE]StartAt:1478229054272,Parent RDD ID:25,Name:UnionRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO serializeLogger: [CreationPYRE]EndAt:1478229054311,Parent RDD ID:25,Name:UnionRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO serializeLogger: [RunnerCompute]StartAt:1478229054311,Parent RDD ID:25,Name:UnionRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO serializeLogger: [CreationPYRE]StartAt:1478229054581,Parent RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO serializeLogger: [CreationPYRE]EndAt:1478229054581,Parent RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO serializeLogger: [RunnerCompute]StartAt:1478229054582,Parent RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO serializeLogger: [writerThread]StartAt:1478229054914,Parent RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:11:00 INFO serializeLogger: [RunnerCompute]EndAt:1478229060260,Parent RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:11:00 INFO serializeLogger: [writerThread]StartAt:1478229060279,Parent RDD ID:25,Name:UnionRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:11:00 INFO serializeLogger: [RunnerCompute]EndAt:1478229060317,Parent RDD ID:25,Name:UnionRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:11:00 INFO serializeLogger: [writerThread]EndAt:1478229060353,Parent RDD ID:25,Name:UnionRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:11:00 INFO serializeLogger: [writerThread]EndAt:1478229060353,Parent RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:12:36 INFO serializeLogger: [CreationPYRE]StartAt:1478229156062,Parent RDD ID:32,Name:UnionRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO serializeLogger: [CreationPYRE]EndAt:1478229156113,Parent RDD ID:32,Name:UnionRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO serializeLogger: [RunnerCompute]StartAt:1478229156114,Parent RDD ID:32,Name:UnionRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO serializeLogger: [CreationPYRE]StartAt:1478229156325,Parent RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO serializeLogger: [CreationPYRE]EndAt:1478229156326,Parent RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO serializeLogger: [RunnerCompute]StartAt:1478229156326,Parent RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO serializeLogger: [writerThread]StartAt:1478229156791,Parent RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:47 INFO serializeLogger: [RunnerCompute]EndAt:1478229167820,Parent RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:47 INFO serializeLogger: [writerThread]StartAt:1478229167839,Parent RDD ID:32,Name:UnionRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:13:07 INFO serializeLogger: [RunnerCompute]EndAt:1478229187023,Parent RDD ID:32,Name:UnionRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:13:08 INFO serializeLogger: [writerThread]EndAt:1478229188470,Parent RDD ID:32,Name:UnionRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:13:08 INFO serializeLogger: [writerThread]EndAt:1478229188470,Parent RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:14:00 INFO serializeLogger: [CreationPYRE]StartAt:1478229240852,Parent RDD ID:39,Name:UnionRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO serializeLogger: [CreationPYRE]EndAt:1478229240852,Parent RDD ID:39,Name:UnionRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO serializeLogger: [RunnerCompute]StartAt:1478229240852,Parent RDD ID:39,Name:UnionRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO serializeLogger: [CreationPYRE]StartAt:1478229240853,Parent RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO serializeLogger: [CreationPYRE]EndAt:1478229240853,Parent RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO serializeLogger: [RunnerCompute]StartAt:1478229240854,Parent RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:01 INFO serializeLogger: [writerThread]StartAt:1478229241175,Parent RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:19 INFO serializeLogger: [RunnerCompute]EndAt:1478229259759,Parent RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:19 INFO serializeLogger: [writerThread]StartAt:1478229259813,Parent RDD ID:39,Name:UnionRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:40 INFO serializeLogger: [RunnerCompute]EndAt:1478229280399,Parent RDD ID:39,Name:UnionRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:41 INFO serializeLogger: [writerThread]EndAt:1478229281599,Parent RDD ID:39,Name:UnionRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:41 INFO serializeLogger: [writerThread]EndAt:1478229281599,Parent RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:15:37 INFO serializeLogger: [CreationPYRE]StartAt:1478229337806,Parent RDD ID:46,Name:UnionRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:37 INFO serializeLogger: [CreationPYRE]EndAt:1478229337807,Parent RDD ID:46,Name:UnionRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:37 INFO serializeLogger: [RunnerCompute]StartAt:1478229337807,Parent RDD ID:46,Name:UnionRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO serializeLogger: [CreationPYRE]StartAt:1478229338006,Parent RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO serializeLogger: [CreationPYRE]EndAt:1478229338007,Parent RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO serializeLogger: [RunnerCompute]StartAt:1478229338007,Parent RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:39 INFO serializeLogger: [writerThread]StartAt:1478229339050,Parent RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:53 INFO serializeLogger: [RunnerCompute]EndAt:1478229353468,Parent RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:53 INFO serializeLogger: [writerThread]StartAt:1478229353521,Parent RDD ID:46,Name:UnionRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:53 INFO serializeLogger: [RunnerCompute]EndAt:1478229353560,Parent RDD ID:46,Name:UnionRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:53 INFO serializeLogger: [writerThread]EndAt:1478229353592,Parent RDD ID:46,Name:UnionRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:53 INFO serializeLogger: [writerThread]EndAt:1478229353601,Parent RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:17:01 INFO serializeLogger: [CreationPYRE]StartAt:1478229421904,Parent RDD ID:53,Name:UnionRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:01 INFO serializeLogger: [CreationPYRE]EndAt:1478229421905,Parent RDD ID:53,Name:UnionRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:01 INFO serializeLogger: [RunnerCompute]StartAt:1478229421905,Parent RDD ID:53,Name:UnionRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO serializeLogger: [CreationPYRE]StartAt:1478229422233,Parent RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO serializeLogger: [CreationPYRE]EndAt:1478229422234,Parent RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO serializeLogger: [RunnerCompute]StartAt:1478229422234,Parent RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:03 INFO serializeLogger: [writerThread]StartAt:1478229423028,Parent RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:15 INFO serializeLogger: [RunnerCompute]EndAt:1478229435054,Parent RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:15 INFO serializeLogger: [writerThread]StartAt:1478229435091,Parent RDD ID:53,Name:UnionRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:34 INFO serializeLogger: [RunnerCompute]EndAt:1478229454891,Parent RDD ID:53,Name:UnionRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:36 INFO serializeLogger: [writerThread]EndAt:1478229456094,Parent RDD ID:53,Name:UnionRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:36 INFO serializeLogger: [writerThread]EndAt:1478229456094,Parent RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:18:38 INFO serializeLogger: [CreationPYRE]StartAt:1478229518678,Parent RDD ID:60,Name:UnionRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:38 INFO serializeLogger: [CreationPYRE]EndAt:1478229518678,Parent RDD ID:60,Name:UnionRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:38 INFO serializeLogger: [RunnerCompute]StartAt:1478229518678,Parent RDD ID:60,Name:UnionRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:38 INFO serializeLogger: [CreationPYRE]StartAt:1478229518832,Parent RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:38 INFO serializeLogger: [CreationPYRE]EndAt:1478229518832,Parent RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:38 INFO serializeLogger: [RunnerCompute]StartAt:1478229518832,Parent RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:39 INFO serializeLogger: [writerThread]StartAt:1478229519417,Parent RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:52 INFO serializeLogger: [RunnerCompute]EndAt:1478229532807,Parent RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:52 INFO serializeLogger: [writerThread]StartAt:1478229532861,Parent RDD ID:60,Name:UnionRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:52 INFO serializeLogger: [RunnerCompute]EndAt:1478229532893,Parent RDD ID:60,Name:UnionRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:52 INFO serializeLogger: [writerThread]EndAt:1478229532916,Parent RDD ID:60,Name:UnionRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:52 INFO serializeLogger: [writerThread]EndAt:1478229532916,Parent RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:20:03 INFO serializeLogger: [CreationPYRE]StartAt:1478229603995,Parent RDD ID:67,Name:UnionRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO serializeLogger: [CreationPYRE]EndAt:1478229604007,Parent RDD ID:67,Name:UnionRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO serializeLogger: [RunnerCompute]StartAt:1478229604007,Parent RDD ID:67,Name:UnionRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO serializeLogger: [CreationPYRE]StartAt:1478229604232,Parent RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO serializeLogger: [CreationPYRE]EndAt:1478229604240,Parent RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO serializeLogger: [RunnerCompute]StartAt:1478229604240,Parent RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO serializeLogger: [writerThread]StartAt:1478229604705,Parent RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:15 INFO serializeLogger: [RunnerCompute]EndAt:1478229615434,Parent RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:15 INFO serializeLogger: [writerThread]StartAt:1478229615453,Parent RDD ID:67,Name:UnionRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:34 INFO serializeLogger: [RunnerCompute]EndAt:1478229634021,Parent RDD ID:67,Name:UnionRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:35 INFO serializeLogger: [writerThread]EndAt:1478229635193,Parent RDD ID:67,Name:UnionRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:35 INFO serializeLogger: [writerThread]EndAt:1478229635193,Parent RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:21:35 INFO serializeLogger: [CreationPYRE]StartAt:1478229695377,Parent RDD ID:74,Name:UnionRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO serializeLogger: [CreationPYRE]EndAt:1478229695385,Parent RDD ID:74,Name:UnionRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO serializeLogger: [RunnerCompute]StartAt:1478229695385,Parent RDD ID:74,Name:UnionRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO serializeLogger: [CreationPYRE]StartAt:1478229695485,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO serializeLogger: [CreationPYRE]EndAt:1478229695485,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO serializeLogger: [RunnerCompute]StartAt:1478229695486,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO serializeLogger: [writerThread]StartAt:1478229695646,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:55 INFO serializeLogger: [RunnerCompute]EndAt:1478229715756,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:55 INFO serializeLogger: [writerThread]StartAt:1478229715811,Parent RDD ID:74,Name:UnionRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:22:14 INFO serializeLogger: [RunnerCompute]EndAt:1478229734511,Parent RDD ID:74,Name:UnionRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:22:15 INFO serializeLogger: [writerThread]EndAt:1478229735738,Parent RDD ID:74,Name:UnionRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:22:15 INFO serializeLogger: [writerThread]EndAt:1478229735738,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:23:10 INFO serializeLogger: [CreationPYRE]StartAt:1478229790027,Parent RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:10 INFO serializeLogger: [CreationPYRE]EndAt:1478229790027,Parent RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:10 INFO serializeLogger: [RunnerCompute]StartAt:1478229790027,Parent RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:10 INFO serializeLogger: [writerThread]StartAt:1478229790218,Parent RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:33 INFO serializeLogger: [RunnerCompute]EndAt:1478229813130,Parent RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:33 INFO serializeLogger: [writerThread]EndAt:1478229813135,Parent RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:33 INFO serializeLogger: [CreationPYRE]StartAt:1478229813726,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:33 INFO serializeLogger: [CreationPYRE]EndAt:1478229813761,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:33 INFO serializeLogger: [RunnerCompute]StartAt:1478229813761,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:33 INFO serializeLogger: [CreationPYRE]StartAt:1478229813860,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:33 INFO serializeLogger: [CreationPYRE]EndAt:1478229813893,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:33 INFO serializeLogger: [RunnerCompute]StartAt:1478229813893,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:34 INFO serializeLogger: [writerThread]StartAt:1478229814281,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:56 INFO serializeLogger: [RunnerCompute]EndAt:1478229836936,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:56 INFO serializeLogger: [writerThread]StartAt:1478229836962,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:24:15 INFO serializeLogger: [RunnerCompute]EndAt:1478229855751,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:24:16 INFO serializeLogger: [writerThread]EndAt:1478229856974,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:24:16 INFO serializeLogger: [writerThread]EndAt:1478229856974,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:25:13 INFO serializeLogger: [CreationPYRE]StartAt:1478229913570,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:211,Partition Id:0,Stage Id:25
+16/11/03 21:25:13 INFO serializeLogger: [CreationPYRE]EndAt:1478229913571,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:211,Partition Id:0,Stage Id:25
+16/11/03 21:25:13 INFO serializeLogger: [RunnerCompute]StartAt:1478229913571,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:211,Partition Id:0,Stage Id:25
+16/11/03 21:25:13 INFO serializeLogger: [writerThread]StartAt:1478229913705,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:211,Partition Id:0,Stage Id:25
+16/11/03 21:25:27 INFO serializeLogger: [RunnerCompute]EndAt:1478229927115,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:211,Partition Id:0,Stage Id:25
+16/11/03 21:25:27 INFO serializeLogger: [writerThread]EndAt:1478229927118,Parent RDD ID:86,Name:MapPartiti16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]StartAt:1478229939250,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]EndAt:1478229939319,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [RunnerCompute]StartAt:1478229939364,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]StartAt:1478229939474,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]EndAt:1478229939514,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [RunnerCompute]StartAt:1478229939589,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [writerThread]StartAt:1478229939795,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:51 INFO serializeLogger: [RunnerCompute]EndAt:16/11/03 21:25:54 INFO serializeLogger: [RunnerCompute]EndAt:1478229954867,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:230,Partition Id:11,Stage Id:36
+16/11/03 21:25:54 INFO serializeLogger: [writerThread]StartAt:1478229954949,Parent RDD ID:916/11/03 21:26:11 INFO serializeLogger: [RunnerCompute]EndAt:1478229971377,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:26:12 INFO serializeLogger: [writerThread]EndAt:1478229972597,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:26:12 INFO serializeLogger: [writerThread]EndAt:1478229972597,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:27:40 INFO serializeLogger: [CreationPYRE]StartAt:147816/11/03 21:27:40 INFO serializeLogger: [CreationPYRE]StartAt:1478230060863,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:252,Partition Id:8,Stage Id:48
+16/11/03 21:27:40 INFO serializeLogger: [CreationPYRE]EndAt:1478230060887,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:252,Partition Id:8,Stage Id:48
+16/11/03 21:27:40 INFO serializeLogger: [RunnerCompute]StartAt:1478230060887,Parent RDD ID:16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]StartAt:116/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]StartAt:1478230061200,Parent RDD ID:71,Name:Ma16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]EndAt:1416/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]EndAt:1478230061289,Parent RDD ID:71,Name:Map16/11/03 21:27:41 INFO serializeLogger: [RunnerCompute]StartA16/11/03 21:27:41 INFO serializeLogger: [RunnerCompute]StartAt:1478230061398,Parent RDD ID:71,Name:MapP116/11/03 21:27:15 INFO serializeLogger: [CreationPYRE]Start16/11/03 21:27:41 INFO serializeLogger: [writerThread]StartAt:1478230061752,Parent RDD ID:71,Name:MapPa16/11/03 21:27:46 INFO serializeLogger: [RunnerCompute]EndAt:1478230066859,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:46 INFO serializeLogger: [writerThread]StartAt:1478230066910,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:46 INFO serializeLogger: [RunnerCompute]EndAt:1478230066952,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:46 INFO serializeLogger: [writerThread]EndAt:1478230066976,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:46 INFO serializeLogger: [writerThread]EndAt:1478230066976,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:29:05 INFO serializeLogger: [CreationPYRE]StartAt:1478230145689,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:05 INFO serializeLogger: [CreationPYRE]EndAt:1478230145758,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:05 INFO serializeLogger: [RunnerCompute]StartAt:1478230145758,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:06 INFO serializeLogger: [writerThread]StartAt:1478230146341,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:10 INFO serializeLogger: [RunnerCompute]EndAt:1478230150036,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:10 INFO serializeLogger: [writerThread]EndAt:1478230150075,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:30 INFO serializeLogger: [CreationPYRE]16/11/03 21:29:30 INFO serializeLogger: [CreationPYRE]StartAt:1478230170834,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:30 INFO serializeLogger: [CreationPYRE]EndAt:1478230170930,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:30 INFO serializeLogger: [RunnerCompute]StartAt:1478230170930,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:31 INFO serializeLogger: [CreationPYRE]StartAt:1478230171694,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:31 INFO serializeLogger: [CreationPYRE]EndAt:1478230171722,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:31 INFO serializeLogger: [RunnerCompute]StartAt:1478230171723,Parent RDD ID:71,Name:MapPartiti16/11/03 21:29:31 INFO serializeLogger: [writerThread]16/11/03 21:29:32 INFO serializeLogger: [writerThread]StartAt:1478230172231,Parent RDD ID:71,Name:MapPartiti16/11/03 21:29:54 INFO serializeLogger: [RunnerCompute]EndAt:1478230194080,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:29:54 INFO serializeLogger: [writerThread]StartAt:1478230194138,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:30:13 INFO serializeLogger: [RunnerCompute]EndAt:1478230213994,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:30:15 INFO serializeLogger: [writerThread]EndAt:1478230215302,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:30:15 INFO serializeLogger: [writerThread]EndAt:1478230215323,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:31:27 INFO serializeLogger: [CreationPYRE]16/11/03 21:31:27 INFO serializeLogger: [CreationPYRE]StartAt:1478230287964,Parent RDD ID:114,Name:U16/11/03 21:31:27 INFO serializeLogger: [CreationPYRE]E16/11/03 21:31:28 INFO serializeLogger: [CreationPYRE]EndAt:1478230288075,Parent RDD ID:114,Name:16/11/03 21:31:28 INFO serializeLogger: [RunnerCompute]S16/11/03 21:31:28 INFO serializeLogger: [RunnerCompute]StartAt:1478230288274,Parent RDD ID:114,Name16/11/03 21:31:28 INFO serializeLogger: [CreationPYRE]Sta16/11/03 21:31:28 INFO serializeLogger: [CreationPYRE]StartAt:1478230288754,Parent RDD ID:71,Name:MapPart16/11/03 21:31:28 INFO serializeLogger: [CreationPYRE]EndA16/11/03 21:31:28 INFO serializeLogger: [CreationPYRE]EndAt:1478230288853,Parent RDD ID:71,Name:MapPar16/11/03 21:31:29 INFO serializeLogger: [RunnerCompute]Star16/11/03 21:31:29 INFO serializeLogger: [RunnerCompute]StartAt:1478230289317,Parent RDD ID:71,Name:MapPa16/11/03 21:31:29 INFO serializeLogger: [writerThread]StartA16/11/03 21:31:29 INFO serializeLogger: [writerThread]StartAt:1478230289790,Parent RDD ID:71,Name:MapP16/11/03 21:31:41 INFO serializeLogger: [RunnerCompute]EndAt:1478230301391,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:31:41 INFO serializeLogger: [writerThread]StartAt:1478230301504,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:32:01 INFO serializeLogger: [RunnerCompute]EndAt:1478230321455,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:32:02 INFO serializeLogger: [writerThread]EndAt:1478230322645,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:32:02 INFO serializeLogger: [writerThread]EndAt:1478230322645,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:33:07 INFO serializeLogger: [CreationPYRE]StartAt:147816/11/03 21:33:08 INFO serializeLogger: [CreationPYRE]StartAt:1478230388096,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:313,Partition Id:3,Stage Id:73
+16/11/03 21:33:08 INFO serializeLogger: [CreationPYRE]EndAt:1478230388112,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:313,Partition Id:3,Stage Id:73
+16/11/03 21:33:08 INFO serializeLogger: [RunnerCompute]StartAt:1478230388112,Parent RDD ID:118,Nam16/11/03 21:33:08 INFO serializeLogger: [writerThread]StartAt:147816/11/03 21:33:08 INFO serializeLogger: [writerThread]StartAt:1478230388236,Parent RDD ID:118,Nam16/11/03 21:33:11 INFO serializeLogger: [RunnerCompute]EndAt:1478216/11/03 21:33:22 INFO serializeLogger: [RunnerCompute]EndAt:1478230402535,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:313,Partition Id:3,Stage Id:73
+16/11/03 21:33:22 INFO serializeLogger: [writerThread]EndAt:1478230402611,Parent RDD ID:118,Nam16/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]StartAt:147816/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]StartAt:1478230403362,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:326,Partition Id:11,Stage Id:84
+16/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]EndAt:1478230403388,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:326,Partition Id:11,Stage Id:84
+16/11/03 21:33:23 INFO serializeLogger: [RunnerCompute]StartAt:1478230403388,Parent RDD16/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]StartAt:147823016/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]StartAt:1478230403540,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:326,Partition Id:11,Stage Id:84
+16/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]EndAt:1478230403577,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:326,Partition Id:11,Stage Id:84
+16/11/03 21:33:23 INFO serializeLogger: [RunnerCompute]StartAt:1478230403578,Parent RDD ID:716/11/03 21:33:24 INFO serializeLogger: [writerThread]StartAt:147823040416/11/03 21:33:24 INFO serializeLogger: [writerThread]StartAt:1478230404150,Parent RDD ID:16/11/03 21:33:43 INFO serializeLogger: [RunnerCompute]EndAt:1478230423997,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:315,Partition Id:0,Stage Id:84
+16/11/03 21:33:44 INFO serializeLogger: [writerThread]StartAt:1478230424062,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:315,Partition Id:0,Stage Id:84
+16/11/03 21:34:03 INFO serializeLogger: [RunnerCompute]EndAt:1478230443262,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:315,Partition Id:0,Stage Id:84
+16/11/03 21:34:04 INFO serializeLogger: [writerThread]EndAt:1478230444467,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:315,Partition Id:0,Stage Id:84
+16/11/03 21:34:04 INFO serializeLogger: [writerThread]EndAt:1478230444467,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:315,Partition Id:0,Stage Id:84
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]StartAt:1478230501412,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]EndAt:1478230501437,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [RunnerCompute]StartAt:1478230501437,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]StartAt:1478230501596,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]EndAt:1478230501620,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [RunnerCompute]StartAt:1478230501620,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [writerThread]StartAt:1478230502081,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:24 INFO serializeLogger: [RunnerCompute]EndAt:1478230524164,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:24 INFO serializeLogger: [writerThread]StartAt:1478230524180,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:43 INFO serializeLogger: [RunnerCompute]EndAt:1478230543056,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:44 INFO serializeLogger: [writerThread]EndAt:1478230544262,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+16/11/03 21:35:44 INFO serializeLogger: [writerThread]EndAt:1478230544319,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+ompute]StartAt:1478230501737,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [writerThread]StartAt:1478230502081,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:17 INFO serializeLogger: [RunnerCompute]EndAt:1478230517196,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:17 INFO serializeLogger: [writerThread]StartAt:1478230517235,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:17 INFO serializeLogger: [RunnerCompute]EndAt:1478230517268,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:17 INFO serializeLogger: [writerThread]EndAt:1478230517292,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:17 INFO serializeLogger: [writerThread]EndAt:1478230517293,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]StartAt:1478230599502,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]EndAt:1478230599502,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [RunnerCompute]StartAt:1478230599502,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [writerThread]StartAt:1478230599763,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:44 INFO serializeLogger: [RunnerCompute]EndAt:1478230604058,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:44 INFO serializeLogger: [writerThread]EndAt:1478230604061,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+02308,Parent RDD ID:16/11/03 21:35:21 INFO serializeLogger: [RunnerCompute]EndAt:1478230521974,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+16/11/03 21:35:22 INFO serializeLogger: [writerThread]StartAt:1478230522008,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+16/11/03 21:35:41 INFO serializeLogger: [RunnerCompute]EndAt:1478230541187,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+16/11/03 21:35:42 INFO serializeLogger: [writerThread]EndAt:1478230542384,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+16/11/03 21:35:42 INFO serializeLogger: [writerThread]EndAt:1478230542384,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+D ID:71,Name:MapPartitionedRDD,TaskAttempt ID:347,Partition Id:14,Stage Id:96
+1:33:23 INFO serializeLogger: [writerThread]StartAt:1478230403528,Parent R16/11/03 21:33:28 INFO serializeLogger: [RunnerCompute]EndAt:1478230408007,Par16/11/03 21:33:43 INFO serializeLogger: [RunnerCompute]EndAt:1478230423526,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:317,Partition Id:7,Stage Id:84
+16/11/03 21:33:43 INFO serializeLogger: [writerThread]StartAt:1478230423544,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:317,Partition Id:7,Stage Id:84
+16/11/03 21:34:03 INFO serializeLogger: [RunnerCompute]EndAt:1478230443373,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:317,Partition Id:7,Stage Id:84
+16/11/03 21:34:04 INFO serializeLogger: [writerThread]EndAt:1478230444606,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:317,Partition Id:7,Stage Id:84
+16/11/03 21:34:04 INFO serializeLogger: [writerThread]EndAt:1478230444606,Parent R16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]StartAt:1478230501228,Parent RDD ID:130,Name:UnionRDD,zeLogger: [CreationPYRE]StartAt:1478230501380,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]EndAt:1478230501405,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [RunnerCompute]StartAt:1478230501455,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]StartAt:1478230501598,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [CreationPYRE]EndAt:1478230501656,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:01 INFO serializeLogger: [RunnerCompute]StartAt:1478230501689,Parent R16/11/03 21:35:01 INFO serializeLogger: [writerThread]StartAt:1478230501837,Pa16/11/03 21:35:02 INFO serializeLogger: [writerThread]StartAt:1478230502258,Parent R16/11/03 21:35:11 INFO serializeLogger: [RunnerCompute]EndAt:1478230511403,Par16/11/03 21:35:21 INFO serializeLogger: [RunnerCompute]EndAt:1478230521425,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:21 INFO serializeLogger: [writerThread]StartAt:1478230521444,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:40 INFO serializeLogger: [RunnerCompute]EndAt:1478230540016,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:41 INFO serializeLogger: [writerThread]EndAt:1478230541217,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:41 INFO serializeLogger: [writerThread]EndAt:1478230541217,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]StartAt:1478230599495,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]EndAt:1478230599495,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [RunnerCompute]StartAt:1478230599495,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [writerThread]StartAt:1478230599692,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:53 INFO serializeLogger: [RunnerCompute]EndAt:1478230613329,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:53 INFO serializeLogger: [writerThread]EndAt:1478230613333,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+8,Stage Id:96
+16/11/03 21:35:15 INFO serializeLogger: [RunnerCompute]EndAt:1478230515098,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:345,Partition Id:8,Stage Id:96
+16/11/03 21:35:15 INFO serializeLogger: [writerThread]StartAt:1478230515160,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:345,Partition Id:8,Stage Id:96
+16/11/03 21:35:15 INFO serializeLogger: [RunnerCompute]EndAt:1478230515178,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:345,Partition Id:8,Stage Id:96
+16/11/03 21:35:15 INFO serializeLogger: [writerThread]EndAt:1478230515208,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:345,Partition Id:8,Stage Id:96
+16/11/03 21:35:15 INFO serializeLogger: [writerThread]EndAt:1478230515208,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:345,Partition Id:8,Stage Id:96
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]StartAt:1478230599499,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]EndAt:1478230599499,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [RunnerCompute]StartAt:1478230599499,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [writerThread]StartAt:1478230599727,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+16/11/03 21:36:42 INFO serializeLogger: [RunnerCompute]EndAt:1478230602908,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+16/11/03 21:36:42 INFO serializeLogger: [writerThread]EndAt:1478230602911,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+serializeLogger: [writerThread]EndAt:1478230506006,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:350,Partition Id:15,Stage Id:96
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]StartAt:1478230599500,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]EndAt:1478230599501,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [RunnerCompute]StartAt:1478230599501,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [writerThread]StartAt:1478230599748,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+16/11/03 21:36:43 INFO serializeLogger: [RunnerCompute]EndAt:1478230603026,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+16/11/03 21:36:43 INFO serializeLogger: [writerThread]EndAt:1478230603029,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+:24
+16/11/03 21:24:54 INFO serializeLogger: [writerThread]StartAt:1478229894261,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:195,Partition Id:1,Stage Id:24
+16/11/03 21:25:12 INFO serializeLogger: [RunnerCompute]EndAt:1478229912314,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:195,Partition Id:1,Stage Id:24
+16/11/03 21:25:13 INFO serializeLogger: [writerThread]EndAt:1478229913484,Parent RDD ID:82,Name:UnionRDD,TaskAttempt ID:195,Partition Id:1,Stage Id:24
+16/11/03 21:25:13 INFO serializeLogger: [writerThread]EndAt:1478229913484,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:195,Partition Id:1,16/11/03 21:25:13 INFO serializeLogger: [CreationPYRE]StartAt:1478229913593,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:13 INFO serializeLogger: [CreationPYRE]EndAt:1478229913648,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:13 INFO serializeLogger: [RunnerCompute]StartAt:1478229913648,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:13 INFO serializeLogger: [writerThread]StartAt:1478229913851,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:27 INFO serializeLogger: [RunnerCompute]EndAt:1478229927558,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:27 INFO serializeLogger: [writerThread]EndAt:1478229927594,Parent RDD ID:86,Name:MapPartitionedRDD,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]StartAt:1478229939635,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]EndAt:1478229939698,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]StartAt:1478229939757,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [RunnerCompute]StartAt:1478229939868,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:39 INFO serializeLogger: [CreationPYRE]EndAt:1478229939980,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [RunnerCompute]StartAt:1478229940140,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [CreationPYRE]StartAt:1478229940166,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [CreationPYRE]StartAt:1478229940223,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [CreationPYRE]EndAt:1478229940252,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [CreationPYRE]EndAt:1478229940299,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [RunnerCompute]StartAt:1478229940367,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [RunnerCompute]StartAt:1478229940458,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:9,Stage 16/11/16/11/03 21:25:40 INFO serializeLogger: [writerThread]StartAt:1478229940861,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO serializeLogger: [writerThread]StartAt:1478229940929,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:9,Stage I16/1116/11/03 21:26:51 INFO serializeLogger: [RunnerCompute]EndAt:1478230011491,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:26:51 INFO serializeLogger: [writerThread]StartAt:1478230011508,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:26:51 INFO serializeLogger: [RunnerCompute]EndAt:1478230011545,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:26:51 INFO serializeLogger: [writerThread]EndAt:1478230011572,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:26:51 INFO serializeLogger: [writerThread]EndAt:1478230011573,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:26:55 INFO serializeLogger: [RunnerCompute]EndAt:1478230015819,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:26:55 INFO serializeLogger: [writerThread]StartAt:1478230015822,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:27:14 INFO serializeLogger: [RunnerCompute]EndAt:1478230034565,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:27:15 INFO serializeLogger: [writerThread]EndAt:1478230035706,Parent RDD ID:90,Name:UnionRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:27:15 INFO serializeLogger: [writerThread]EndAt:1478230035706,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:27:16 INFO serializeLogger: [CreationPYRE]StartAt:1478230036003,Parent RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:16 INFO serializeLogger: [CreationPYRE]EndAt:1478230036026,Parent RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:16 INFO serializeLogger: [RunnerCompute]StartAt:1478230036109,Parent RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:16 INFO serializeLogger: [writerThread]StartAt:1478230036330,Parent RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:20 INFO serializeLogger: [RunnerCompute]EndAt:1478230040019,Parent RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:240,Partition Id:5,Stage Id:37
+16/11/03 21:27:20 INFO serializeLogger: [writerThread]EndAt:1478230040053,Parent RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:240,Partition Id:5,Stage Id:37
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]StartAt:1478230061217,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]EndAt:1478230061247,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [RunnerCompute]StartAt:1478230061305,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]StartAt:1478230061388,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]EndAt:1478230061556,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]StartAt:1478230061605,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [RunnerCompute]StartAt:1478230061656,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]EndAt:1478230061747,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]StartAt:1478230061873,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [RunnerCompute]StartAt:1478230061889,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:41 INFO serializeLogger: [CreationPYRE]EndAt:1478230061938,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:42 INFO serializeLogger: [RunnerCompute]StartAt:1478230062073,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:250,Partition Id:5,Stage 16/11/16/11/03 21:27:42 INFO serializeLogger: [writerThread]StartAt:1478230062344,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:258,Partition Id:13,Stage16/11/016/11/03 21:27:42 INFO serializeLogger: [writerThread]StartAt:1478230062450,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:250,Partition Id:5,Stage16/11/03 21:28:41 INFO serializeLogger: [RunnerCompute]EndAt:1478230121624,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:245,Partition Id:1,Stage Id:48
+16/11/03 21:28:41 INFO serializeLogger: [writerThread]StartAt:1478230121663,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:245,Partition Id:1,Stage Id:48
+16/11/03 21:28:46 INFO serializeLogger: [RunnerCompute]EndAt:1478230126013,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:255,Partition Id:9,Stage Id:48
+16/11/03 21:28:46 INFO serializeLogger: [writerThread]StartAt:1478230126015,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:255,Partition Id:9,Stage Id:48
+16/11/03 21:28:46 INFO serializeLogger: [RunnerCompute]EndAt:1478230126030,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:255,Partition Id:9,Stage Id:48
+16/11/03 21:28:46 INFO serializeLogger: [writerThread]EndAt:1478230126055,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:255,Partition Id:9,Stage Id:48
+16/11/03 21:28:46 INFO serializeLogger: [writerThread]EndAt:1478230126055,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:255,Partition Id:9,Stage Id:48
+16/11/03 21:29:04 INFO serializeLogger: [RunnerCompute]EndAt:1478230144104,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:245,Partition Id:1,Stage Id:48
+16/11/03 21:29:05 INFO serializeLogger: [writerThread]EndAt:1478230145330,Parent RDD ID:98,Name:UnionRDD,TaskAttempt ID:245,Partition Id:1,Stage Id:48
+16/11/03 21:29:05 INFO serializeLogger: [writerThread]EndAt:1478230145330,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:245,Partition Id:1,Stage Id:48
+16/11/03 21:29:06 INFO serializeLogger: [CreationPYRE]StartAt:1478230146202,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:29:06 INFO serializeLogger: [CreationPYRE]EndAt:1478230146257,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:29:06 INFO serializeLogger: [RunnerCompute]StartAt:1478230146258,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:29:06 INFO serializeLogger: [writerThread]StartAt:1478230146557,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:16/11/03 21:29:30 INFO serializeLogger: [RunnerCompute]EndAt:1478230170138,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:264,Partition Id:5,Stage Id:49
+16/11/03 21:29:30 INFO serializeLogger: [writerThread]EndAt:1478230170141,Parent RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:264,Partition Id:5,16/11/03 21:16/11/03 21:29:31 INFO serializeLogger: [CreationPYRE]StartAt:1478230171885,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:31 INFO serializeLogger: [CreationPYRE]EndAt:1478230171902,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:31 INFO serializeLogger: [RunnerCompute]StartAt:1478230171902,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:281,Partition Id:16/11/03 21:29:16/11/03 21:29:32 INFO serializeLogger: [CreationPYRE]StartAt:1478230172080,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [CreationPYRE]EndAt:1478230172097,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [RunnerCompute]StartAt:1478230172097,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:275,Partition Id:4,16/11/03 21:16/11/03 21:29:32 INFO serializeLogger: [CreationPYRE]StartAt:1478230172584,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [CreationPYRE]EndAt:1478230172640,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [CreationPYRE]StartAt:1478230172666,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [RunnerCompute]StartAt:1478230172674,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [CreationPYRE]EndAt:1478230172774,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:32 INFO serializeLogger: [RunnerCompute]StartAt:1478230172932,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:275,Partition Id:4,16/11/03 21:16/11/03 21:29:33 INFO serializeLogger: [writerThread]StartAt:1478230173176,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:281,Partition Id:1216/11/03 21:216/11/03 21:29:33 INFO serializeLogger: [writerThread]StartAt:1478230173356,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:275,Partition Id:4,16/11/03 21:29:47 INFO serializeLogger: [RunnerCompute]EndAt:1478230187186,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:280,Partition Id:10,Stage Id:60
+16/11/03 21:29:47 INFO serializeLogger: [writerThread]StartAt:1478230187307,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:280,Partition Id:10,Stage Id:60
+16/11/03 216/11/03 21:29:49 INFO serializeLogger: [RunnerCompute]EndAt:1478230189989,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:50 INFO serializeLogger: [writerThread]StartAt:1478230190036,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:50 INFO serializeLogger: [RunnerCompute]EndAt:1478230190055,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:281,Partition Id:1216/11/03 21:29:53 INFO serializeLogger: [RunnerCompute]EndAt:1478230193048,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:274,Partition Id:2,Stage Id:60
+16/11/03 21:29:53 INFO serializeLogger: [writ16/11/03 21:30:38 INFO serializeLogger: [RunnerCompute]EndAt:1478230238506,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:279,Partition Id:9,Stage Id:60
+16/11/03 21:30:38 INFO serializeLogger: [writerThread]StartAt:1478230238527,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:279,Partition Id:9,Stage Id:60
+16/11/03 21:30:38 INFO serializeLogger: [RunnerCompute]EndAt:1478230238561,Parent RDD ID:106,Name:UnionRDD,TaskAttempt ID:279,Partition Id:9,Stage Id:60
+16/11/03 21:30:38 INFO serializeLogger: [writerThread]EndAt:1478230238589,Parent RDD ID:106,Name:UnionRDD,16/11/03 21:16/11/03 21:31:03 INFO serializeLogger: [CreationPYRE]StartAt:1478230263688,Parent RDD ID:110,Name:MapPartitionedRDD,TaskAttempt ID:289,Partition Id:4,16/11/03 21:16/11/03 21:31:03 INFO serializeLogger: [CreationPYRE]EndAt:1478230263781,Parent RDD ID:110,Name:MapPartitionedRDD,TaskAttempt ID:289,Partition Id:4,16/11/03 21:16/11/03 21:31:03 INFO serializeLogger: [RunnerCompute]StartAt:1478230263862,Parent RDD ID:110,Name:MapPartitionedRDD,TaskAttempt ID:289,Partition Id:4,16/11/03 21:16/11/03 21:31:04 INFO serializeLogger: [writerThread]StartAt:1478230264381,Parent RDD ID:110,Name:MapPartitionedRDD,TaskAttempt ID:289,Partition Id:4,16/11/03 21:16/11/03 21:31:27 INFO serializeLogger: [RunnerCompute]EndAt:1478230287576,Parent RDD ID:110,Name:MapPartitionedRDD,TaskAttempt ID:289,Partition Id:4,Stage Id:61
+16/11/03 21:31:27 INFO serializeLogger: [writerThread]EndAt:1478230287649,Parent RDD ID:110,Name:MapPartitionedRDD,TaskAttempt ID:289,Partition Id:4,16/11/03 21:16/11/03 21:31:29 INFO serializeLogger: [CreationPYRE]StartAt:1478230289048,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:1,16/11/03 21:16/11/03 21:31:29 INFO serializeLogger: [CreationPYRE]StartAt:1478230289295,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:303,Partition Id:16/11/03 21:3116/11/03 21:31:29 INFO serializeLogger: [CreationPYRE]EndAt:1478230289457,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:1,S16/11/03 2116/11/03 21:31:29 INFO serializeLogger: [CreationPYRE]EndAt:1478230289807,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:303,Partition Id:9,Stag16/11/0316/11/03 21:31:29 INFO serializeLogger: [RunnerCompute]StartAt:1478230289938,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:1,St16/11/03 216/11/03 21:31:30 INFO serializeLogger: [RunnerCompute]StartAt:1478230290062,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:303,Partition Id:9,Stage Id:16/16/11/03 21:31:30 INFO serializeLogger: [CreationPYRE]StartAt:1478230290325,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:1,Sta16/11/03 16/11/03 21:31:30 INFO serializeLogger: [CreationPYRE]StartAt:1478230290549,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:303,Partition Id:9,S16/11/03 2116/11/03 21:31:30 INFO serializeLogger: [CreationPYRE]EndAt:1478230290572,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:1,Stag16/11/0316/11/03 21:31:30 INFO serializeLogger: [CreationPYRE]EndAt:1478230290722,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:303,Partition Id:9,Stage I16/1116/11/03 21:31:30 INFO serializeLogger: [RunnerCompute]StartAt:1478230290862,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:1,Stage16/11/016/11/03 21:31:31 INFO serializeLogger: [RunnerCompute]StartAt:1478230291051,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:303,Partition Id:9,Stag16/11/0316/11/03 21:31:32 INFO serializeLogger: [writerThread]StartAt:1478230292220,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:1,Stage 16/11/16/11/03 21:31:32 INFO serializeLogger: [writerThread]StartAt:1478230292340,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:303,Partition Id:9,Stage I16/1116/11/03 21:32:28 INFO serializeLogger: [RunnerCompute]EndAt:1478230348006,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:32:28 INFO serializeLogger: [writerThread]StartAt:1478230348057,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:32:28 INFO serializeLogger: [RunnerCompute]EndAt:1478230348095,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:32:28 INFO serializeLogger: [writerThread]EndAt:1478230348117,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:32:28 INFO serializeLogger: [writerThread]EndAt:1478230348117,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:32:47 INFO serializeLogger: [RunnerCompute]EndAt:1478230367132,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:32:47 INFO serializeLogger: [writerThread]StartAt:1478230367134,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:33:06 INFO serializeLogger: [RunnerCompute]EndAt:1478230386661,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:33:07 INFO serializeLogger: [writerThread]EndAt:1478230387891,Parent RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:33:07 INFO serializeLogger: [writerThread]EndAt:1478230387891,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:33:08 INFO serializeLogger: [CreationPYRE]StartAt:1478230388152,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:08 INFO serializeLogger: [CreationPYRE]EndAt:1478230388195,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:08 INFO serializeLogger: [RunnerCompute]StartAt:1478230388229,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:08 INFO serializeLogger: [writerThread]StartAt:1478230388404,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:20 INFO serializeLogger: [RunnerCompute]EndAt:1478230400893,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:20 INFO serializeLogger: [writerThread]EndAt:1478230400914,Parent RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]StartAt:1478230403844,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:23 INFO serializeLogger: [CreationPYRE]EndAt:1478230403877,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:23 INFO serializeLogger: [RunnerCompute]StartAt:1478230403878,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [CreationPYRE]StartAt:1478230404019,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [CreationPYRE]EndAt:1478230404048,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [RunnerCompute]StartAt:1478230404048,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [CreationPYRE]StartAt:1478230404418,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [CreationPYRE]EndAt:1478230404478,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [CreationPYRE]StartAt:1478230404518,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [RunnerCompute]StartAt:1478230404566,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [CreationPYRE]EndAt:1478230404648,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO serializeLogger: [RunnerCompute]StartAt:1478230404790,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:25 INFO serializeLogger: [writerThread]StartAt:1478230405133,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:25 INFO serializeLogger: [writerThread]StartAt:1478230405233,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:24 INFO serializeLogger: [RunnerCompute]EndAt:1478230464215,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:24 INFO serializeLogger: [writerThread]StartAt:1478230464251,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:28 INFO serializeLogger: [RunnerCompute]EndAt:1478230468472,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:34:28 INFO serializeLogger: [writerThread]StartAt:1478230468474,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:34:28 INFO serializeLogger: [RunnerCompute]EndAt:1478230468492,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:34:28 INFO serializeLogger: [writerThread]EndAt:1478230468515,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:34:28 INFO serializeLogger: [writerThread]EndAt:1478230468515,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:34:45 INFO serializeLogger: [RunnerCompute]EndAt:1478230485383,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:46 INFO serializeLogger: [writerThread]EndAt:1478230486539,Parent RDD ID:122,Name:UnionRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:46 INFO serializeLogger: [writerThread]EndAt:1478230486539,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:16/11/03 21:34:46 INFO serializeLogger: [CreationPYRE]StartAt:1478230486772,Parent RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:335,Partition Id:1,Stage Id:85
+16/11/03 21:34:46 INFO serializeLogger: [CreationPYRE]EndAt:1478230486798,Parent RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:335,Partition Id:1,Stage Id:85
+16/11/03 21:34:46 INFO serializeLogger: [RunnerCompute]StartAt:1478230486847,Parent RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:335,Partition Id:1,Stage Id:85
+16/11/03 21:34:46 INFO serializeLogger: [writerThread]StartAt:1478230486958,Parent RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:335,Partition Id:1,16/11/03 21:35:00 INFO serializeLogger: [RunnerCompute]EndAt:1478230500780,Parent RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:337,Partition Id:4,Stage Id:85
+16/11/03 21:35:00 INFO serializeLogger: [writerThread]EndAt:1478230500807,Parent RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:337,Partition Id:4,Stage Id:85
+16/11/03 21:16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]StartAt:1478230502021,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]EndAt:1478230502038,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [RunnerCompute]StartAt:1478230502038,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:344,Partition Id:4,16/11/03 21:16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]StartAt:1478230502155,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]EndAt:1478230502171,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [RunnerCompute]StartAt:1478230502171,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:353,Partition Id:12,16/11/03 21:16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]StartAt:1478230502421,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]EndAt:1478230502446,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [RunnerCompute]StartAt:1478230502463,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]StartAt:1478230502472,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [CreationPYRE]EndAt:1478230502630,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:02 INFO serializeLogger: [RunnerCompute]StartAt:1478230502705,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:353,Partition Id:12,16/11/03 21:16/11/03 21:35:02 INFO serializeLogger: [writerThread]StartAt:1478230502831,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:4,16/11/03 21:16/11/03 21:35:03 INFO serializeLogger: [writerThread]StartAt:1478230503245,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:353,Partition Id:12,16/11/03 21:16/11/03 21:35:21 INFO serializeLogger: [RunnerCompute]EndAt:1478230521352,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:21 INFO serializeLogger: [writerThread]StartAt:1478230521406,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:21 INFO serializeLogger: [RunnerCompute]EndAt:1478230521433,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:21 INFO serializeLogger: [writerThread]EndAt:1478230521464,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:353,Partition Id:12,Stage Id:96
+16/11/03 21:35:21 INFO serializeLogger: [writerThread]EndAt:1478230521464,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:353,Partition Id:12,16/11/03 21:16/11/03 21:35:25 INFO serializeLogger: [RunnerCompute]EndAt:1478230525464,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:25 INFO serializeL16/11/03 21:36:11 INFO serializeLogger: [RunnerCompute]EndAt:1478230571970,Parent RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:351,Partition Id:9,Stage Id:96
+16/11/03 21:36:11 INFO serializeLogger: [writerThread]StartAt:1478230571988,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:351,Partition Id:9,Stage Id:96
+16/11/03 21:36:12 INFO serializeLogger: [RunnerCompute]EndAt:1478230572028,Parent RDD ID:130,Name:UnionRDD,TaskAttempt ID:351,Partition Id:9,Stage Id:96
+16/11/03 21:36:12 INFO serializeLogger: [writerThread]EndAt:1478230572053,Parent RDD ID:130,Name:UnionRDD,16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]StartAt:1478230599680,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]EndAt:1478230599736,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [RunnerCompute]StartAt:1478230599803,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:36:40 INFO serializeLogger: [writerThread]StartAt:1478230600042,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:16/11/03 21:36:53 INFO serializeLogger: [RunnerCompute]EndAt:1478230613078,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:360,Partition Id:4,Stage Id:97
+16/11/03 21:36:53 INFO serializeLogger: [writerThread]EndAt:1478230613112,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:360,Partition Id:4,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]StartAt:1478230599703,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:362,Partition Id:5,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [CreationPYRE]EndAt:1478230599774,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:362,Partition Id:5,Stage Id:97
+16/11/03 21:36:39 INFO serializeLogger: [RunnerCompute]StartAt:1478230599820,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:362,Partition Id:5,Stage Id:97
+16/11/03 21:36:40 INFO serializeLogger: [writerThread]StartAt:1478230600051,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:362,Partition Id:5,Stage Id:97
+16/11/03 21:36:44 INFO serializeLogger: [RunnerC16/11/03 21:37:03 INFO serializeLogger: [RunnerCompute]EndAt:1478230623743,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:355,Partition Id:1,Stage Id:97
+16/11/03 21:37:03 INFO serializeLogger: [writerThread]EndAt:1478230623786,Parent RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:355,Partition Id:1,Stage Id:97

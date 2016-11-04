@@ -1,0 +1,316 @@
+16/11/03 20:47:09 INFO extraLogger: [ShuffleMapTask]StartAt:1478227629387,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227629393,RDD ID:27,Name:PairwiseRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227629395,RDD ID:26,Name:PythonRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227629425,RDD ID:25,Name:UnionRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227629447,RDD ID:23,Name:PythonRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227629455,RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227629471,RDD ID:21,Name:ShuffledRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]EndAt:1478227629719,RDD ID:21,Name:ShuffledRDD,TaskAttempt ID:51,Partition Id:3,Stage Id:5
+16/11/03 20:47:09 INFO extraLogger: [iterator.FromParent]EndAt:1478227629720,RDD ID:22,Name:MapPartitio16/11/03 20:47:08 INFO extraLogger: [iterator.FromParent]StartAt:1478227628523,RDD ID:27,Name:PairwiseRDD,TaskAttempt ID:47,Partition Id:4,Stage Id:5
+16/11/03 20:47:08 INFO extraLogger: [iterator.FromParent]StartAt:1478227628704,RDD ID:26,Name:PythonRDD,TaskAttempt ID:47,Partition Id:4,Stage Id:5
+16/11/03 20:47:08 INFO extraLogger: [iterator.FromParent]StartAt:1478227628771,RDD ID:25,Name:UnionRDD,TaskAttempt ID:47,Partition Id:4,Stage Id:5
+16/11/03 20:47:08 INFO extraLogger: [iterator.FromParent]StartAt:1478227628788,RDD ID:23,Name:PythonRDD,TaskAttempt ID:47,Partition Id:4,Stage Id:5
+16/11/03 20:47:08 INFO extraLogger: [iterator.FromParent]StartAt:1478227628855,RDD ID:22,Name:MapPartitionedRDD,TaskAttempt ID:47,Partition Id:4,Stage Id:5
+16/16/11/03 20:47:47 INFO extraLogger: [ShuffleMapTask]StartAt:1478227667340,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]StartAt:1478227667341,RDD ID:34,Name:PairwiseRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]StartAt:1478227667341,RDD ID:33,Name:PythonRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]StartAt:1478227667341,RDD ID:32,Name:UnionRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]StartAt:1478227667376,RDD ID:30,Name:PythonRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]StartAt:1478227667466,RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]StartAt:1478227667598,RDD ID:28,Name:ShuffledRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:47 INFO extraLogger: [iterator.FromParent]EndAt:1478227667880,RDD ID:28,Name:ShuffledRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:48 INFO extraLogger: [iterator.FromParent]EndAt:1478227668013,RDD ID:29,Name:MapPartitionedRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:52 INFO extraLogger: [iterator.FromParent]EndAt:1478227672462,RDD ID:30,Name:PythonRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:52 INFO extraLogger: [iterator.FromParent]EndAt:1478227672481,RDD ID:32,Name:UnionRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:56 INFO extraLogger: [iterator.FromParent]EndAt:1478227676482,RDD ID:33,Name:PythonRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:56 INFO extraLogger: [iterator.FromParent]EndAt:1478227676483,RDD ID:34,Name:PairwiseRDD,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:47:57 INFO extraLogger: [ShuffleMapTask]EndAt:1478227677028,TaskAttempt ID:68,Partition Id:2,Stage Id:6
+16/11/03 20:48:28 INFO extraLogger: [ShuffleMapTask]StartAt:1478227708937,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:29 INFO extraLogger: [iterator.FromParent]StartAt:1478227709045,RDD ID:41,Name:PairwiseRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:29 INFO extraLogger: [iterator.FromParent]StartAt:1478227709187,RDD ID:40,Name:PythonRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:29 INFO extraLogger: [iterator.FromParent]StartAt:1478227709338,RDD ID:39,Name:UnionRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:29 INFO extraLogger: [iterator.FromParent]StartAt:1478227709398,RDD ID:38,Name:PythonRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:29 INFO extraLogger: [iterator.FromParent]StartAt:1478227709792,RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:29 INFO extraLogger: [iterator.FromParent]StartAt:1478227709940,RDD ID:35,Name:ShuffledRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:30 INFO extraLogger: [iterator.FromParent]EndAt:1478227710172,RDD ID:35,Name:ShuffledRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:30 INFO extraLogger: [iterator.FromParent]EndAt:1478227710273,RDD ID:36,Name:MapPartitionedRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:31 INFO extraLogger: [iterator.FromParent]EndAt:1478227711965,RDD ID:38,Name:PythonRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:31 INFO extraLogger: [iterator.FromParent]EndAt:1478227711977,RDD ID:39,Name:UnionRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:31 INFO extraLogger: [iterator.FromParent]EndAt:1478227711989,RDD ID:40,Name:PythonRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:31 INFO extraLogger: [iterator.FromParent]EndAt:1478227711989,RDD ID:41,Name:PairwiseRDD,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:48:32 INFO extraLogger: [ShuffleMapTask]EndAt:1478227712017,TaskAttempt ID:89,Partition Id:11,Stage Id:7
+16/11/03 20:49:09 INFO extraLogger: [ShuffleMapTask]StartAt:1478227749998,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227749999,RDD ID:48,Name:PairwiseRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:09 INFO extraLogger: [iterator.FromParent]StartAt:1478227749999,RDD ID:47,Name:PythonRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:10 INFO extraLogger: [iterator.FromParent]StartAt:1478227750000,RDD ID:46,Name:UnionRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:10 INFO extraLogger: [iterator.FromParent]StartAt:1478227750000,RDD ID:44,Name:PythonRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:10 INFO extraLogger: [iterator.FromParent]StartAt:1478227750001,RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:10 INFO extraLogger: [iterator.FromParent]StartAt:1478227750002,RDD ID:42,Name:ShuffledRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:10 INFO extraLogger: [iterator.FromParent]EndAt:1478227750039,RDD ID:42,Name:ShuffledRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:10 INFO extraLogger: [iterator.FromParent]EndAt:1478227750510,RDD ID:43,Name:MapPartitionedRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:15 INFO extraLogger: [iterator.FromParent]EndAt:1478227755141,RDD ID:44,Name:PythonRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:15 INFO extraLogger: [iterator.FromParent]EndAt:1478227755175,RDD ID:46,Name:UnionRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:18 INFO extraLogger: [iterator.FromParent]EndAt:1478227758918,RDD ID:47,Name:PythonRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:18 INFO extraLogger: [iterator.FromParent]EndAt:1478227758919,RDD ID:48,Name:PairwiseRDD,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:19 INFO extraLogger: [ShuffleMapTask]EndAt:1478227759430,TaskAttempt ID:95,Partition Id:2,Stage Id:8
+16/11/03 20:49:51 INFO extraLogger: [ShuffleMapTask]StartAt:1478227791230,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:51 INFO extraLogger: [iterator.FromParent]StartAt:1478227791342,RDD ID:55,Name:PairwiseRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:51 INFO extraLogger: [iterator.FromParent]StartAt:1478227791632,RDD ID:54,Name:PythonRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:51 INFO extraLogger: [iterator.FromParent]StartAt:1478227791888,RDD ID:53,Name:UnionRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:52 INFO extraLogger: [iterator.FromParent]StartAt:1478227792069,RDD ID:51,Name:PythonRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:52 INFO extraLogger: [iterator.FromParent]StartAt:1478227792252,RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:52 INFO extraLogger: [iterator.FromParent]StartAt:1478227792295,RDD ID:49,Name:ShuffledRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:52 INFO extraLogger: [iterator.FromParent]EndAt:1478227792340,RDD ID:49,Name:ShuffledRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:52 INFO extraLogger: [iterator.FromParent]EndAt:1478227792551,RDD ID:50,Name:MapPartitionedRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:56 INFO extraLogger: [iterator.FromParent]EndAt:1478227796950,RDD ID:51,Name:PythonRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:49:56 INFO extraLogger: [iterator.FromParent]EndAt:1478227796951,RDD ID:53,Name:UnionRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:50:00 INFO extraLogger: [iterator.FromParent]EndAt:1478227800742,RDD ID:54,Name:PythonRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:50:00 INFO extraLogger: [iterator.FromParent]EndAt:1478227800742,RDD ID:55,Name:PairwiseRDD,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:50:01 INFO extraLogger: [ShuffleMapTask]EndAt:1478227801286,TaskAttempt ID:109,Partition Id:2,Stage Id:9
+16/11/03 20:50:32 INFO extraLogger: [ShuffleMapTask]StartAt:1478227832408,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:32 INFO extraLogger: [iterator.FromParent]StartAt:1478227832409,RDD ID:62,Name:PairwiseRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:32 INFO extraLogger: [iterator.FromParent]StartAt:1478227832409,RDD ID:61,Name:PythonRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:32 INFO extraLogger: [iterator.FromParent]StartAt:1478227832410,RDD ID:60,Name:UnionRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:32 INFO extraLogger: [iterator.FromParent]StartAt:1478227832450,RDD ID:58,Name:PythonRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:32 INFO extraLogger: [iterator.FromParent]StartAt:1478227832685,RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:32 INFO extraLogger: [iterator.FromParent]StartAt:1478227832993,RDD ID:56,Name:ShuffledRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:33 INFO extraLogger: [iterator.FromParent]EndAt:1478227833315,RDD ID:56,Name:ShuffledRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:50:33 INFO extraLogger: [iterator.FromParent]EndAt:1478227833501,RDD ID:57,Name:MapPartitionedRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:51:10 INFO extraLogger: [iterator.FromParent]EndAt:1478227870076,RDD ID:58,Name:PythonRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:51:10 INFO extraLogger: [iterator.FromParent]EndAt:1478227870077,RDD ID:60,Name:UnionRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:51:14 INFO extraLogger: [iterator.FromParent]EndAt:1478227874146,RDD ID:61,Name:PythonRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:51:14 INFO extraLogger: [iterator.FromParent]EndAt:1478227874146,RDD ID:62,Name:PairwiseRDD,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:51:14 INFO extraLogger: [ShuffleMapTask]EndAt:1478227874671,TaskAttempt ID:130,Partition Id:3,Stage Id:10
+16/11/03 20:51:14 INFO extraLogger: [ShuffleMapTask]StartAt:1478227874825,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875040,RDD ID:69,Name:PairwiseRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875302,RDD ID:68,Name:PythonRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875653,RDD ID:67,Name:UnionRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:16 INFO extraLogger: [iterator.FromParent]StartAt:1478227876055,RDD ID:65,Name:PythonRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:16 INFO extraLogger: [iterator.FromParent]StartAt:1478227876341,RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:16 INFO extraLogger: [iterator.FromParent]StartAt:1478227876553,RDD ID:63,Name:ShuffledRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:16 INFO extraLogger: [iterator.FromParent]EndAt:1478227876983,RDD ID:63,Name:ShuffledRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:17 INFO extraLogger: [iterator.FromParent]EndAt:1478227877200,RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:52 INFO extraLogger: [iterator.FromParent]EndAt:1478227912699,RDD ID:65,Name:PythonRDD,TaskAttempt ID:141,Partition Id:2,Stage Id:11
+16/11/03 20:51:52 INFO extraLogger: [iterator.FromParent]EndAt:1478227912719,RDD ID:67,Nam16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875224,RDD ID:67,Name:UnionRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875536,RDD ID:66,Name:PythonRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875734,RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:15 INFO extraLogger: [iterator.FromParent]StartAt:1478227875971,RDD ID:63,Name:ShuffledRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:16 INFO extraLogger: [iterator.FromParent]EndAt:1478227876158,RDD ID:63,Name:ShuffledRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:16 INFO extraLogger: [iterator.FromParent]EndAt:1478227876159,RDD ID:64,Name:MapPartitionedRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:17 INFO extraLogger: [iterator.FromParent]EndAt:1478227877651,RDD ID:66,Name:PythonRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:18 INFO extraLogger: [iterator.FromParent]EndAt:1478227878117,RDD ID:67,Name:UnionRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:18 INFO extraLogger: [iterator.FromParent]EndAt:1478227878131,RDD ID:68,Name:PythonRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:18 INFO extraLogger: [iterator.FromParent]EndAt:1478227878131,RDD ID:69,Name:PairwiseRDD,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:18 INFO extraLogger: [ShuffleMapTask]EndAt:1478227878151,TaskAttempt ID:149,Partition Id:12,Stage Id:11
+16/11/03 20:51:57 INFO extraLogger: [ShuffleMapTask]StartAt:1478227917002,TaskAttempt ID:163,Partition Id:4,Stage Id:12
+16/11/03 20:51:57 INFO extraLogger: [iterator.FromParent]StartAt:1478227917003,RDD ID:76,Name:PairwiseRDD,TaskAttempt ID:163,Partition Id:4,Stage Id:12
+16/11/03 20:51:57 INFO extraLogger: [iterator.FromParent]StartAt:1478227917003,RDD ID:75,Name:PythonRDD,TaskAttempt ID:163,Partition Id:4,Stage Id:12
+16/11/03 20:51:57 INFO extraLogger: [iterator.FromParent]StartAt:1478227917304,RDD ID:74,Name:UnionRDD,TaskAttempt ID:163,Partition Id:4,Stage Id:12
+16/11/03 20:51:57 INFO extraLogger: [iterator.FromParent]StartAt:1478227917344,RDD ID:72,Name:PythonRDD,TaskAttempt ID:163,Partition Id:4,Stage Id:12
+16/11/03 20:51:57 INFO extraLogger: [iterator.FromParent]StartAt:1478227917563,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:163,Partition Id:4,Stage Id:12
+16/1116/11/03 20:52:40 INFO extraLogger: [ResultTask]StartAt:1478227960140,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:40 INFO extraLogger: [iterator.FromParent]StartAt:1478227960140,RDD ID:79,Name:PythonRDD,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:40 INFO extraLogger: [iterator.FromParent]StartAt:1478227960141,RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:40 INFO extraLogger: [iterator.FromParent]StartAt:1478227960142,RDD ID:77,Name:ShuffledRDD,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:40 INFO extraLogger: [iterator.FromParent]EndAt:1478227960182,RDD ID:77,Name:ShuffledRDD,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:40 INFO extraLogger: [iterator.FromParent]EndAt:1478227960329,RDD ID:78,Name:MapPartitionedRDD,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:41 INFO extraLogger: [iterator.FromParent]EndAt:1478227961698,RDD ID:79,Name:PythonRDD,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:41 INFO extraLogger: [ResultTask]EndAt:1478227961701,TaskAttempt ID:177,Partition Id:3,Stage Id:13
+16/11/03 20:52:48 INFO extraLogger: [ShuffleMapTask]StartAt:1478227968538,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:48 INFO extraLogger: [iterator.FromParent]StartAt:1478227968733,RDD ID:84,Name:PairwiseRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:49 INFO extraLogger: [iterator.FromParent]StartAt:1478227969121,RDD ID:83,Name:PythonRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:49 INFO extraLogger: [iterator.FromParent]StartAt:1478227969573,RDD ID:82,Name:UnionRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:49 INFO extraLogger: [iterator.FromParent]StartAt:1478227969846,RDD ID:81,Name:PythonRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:50 INFO extraLogger: [iterator.FromParent]StartAt:1478227970156,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:50 INFO extraLogger: [iterator.FromParent]StartAt:1478227970656,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:51 INFO extraLogger: [iterator.FromParent]EndAt:1478227971271,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:51 INFO extraLogger: [iterator.FromParent]EndAt:1478227971553,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:53 INFO extraLogger: [iterator.FromParent]EndAt:1478227973025,RDD ID:81,Name:PythonRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:53 INFO extraLogger: [iterator.FromParent]EndAt:1478227973041,RDD ID:82,Name:UnionRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:53 INFO extraLogger: [iterator.FromParent]EndAt:1478227973057,RDD ID:83,Name:PythonRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:53 INFO extraLogger: [iterator.FromParent]EndAt:1478227973057,RDD ID:84,Name:PairwiseRDD,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:52:53 INFO extraLogger: [ShuffleMapTask]EndAt:1478227973088,TaskAttempt ID:193,Partition Id:11,Stage Id:24
+16/11/03 20:53:38 INFO extraLogger: [ShuffleMapTask]StartAt:1478228018787,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:38 INFO extraLogger: [iterator.FromParent]StartAt:1478228018788,RDD ID:92,Name:PairwiseRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:38 INFO extraLogger: [iterator.FromParent]StartAt:1478228018788,RDD ID:91,Name:PythonRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:38 INFO extraLogger: [iterator.FromParent]StartAt:1478228018789,RDD ID:90,Name:UnionRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:38 INFO extraLogger: [iterator.FromParent]StartAt:1478228018826,RDD ID:88,Name:PythonRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:39 INFO extraLogger: [iterator.FromParent]StartAt:1478228019021,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:39 INFO extraLogger: [iterator.FromParent]StartAt:1478228019358,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:40 INFO extraLogger: [iterator.FromParent]EndAt:1478228020288,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:41 INFO extraLogger: [iterator.FromParent]EndAt:1478228021064,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:46 INFO extraLogger: [iterator.FromParent]EndAt:1478228026207,RDD ID:88,Name:PythonRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:46 INFO extraLogger: [iterator.FromParent]EndAt:1478228026234,RDD ID:90,Name:UnionRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:49 INFO extraLogger: [iterator.FromParent]EndAt:1478228029959,RDD ID:91,Name:PythonRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:49 INFO extraLogger: [iterator.FromParent]EndAt:1478228029960,RDD ID:92,Name:PairwiseRDD,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:53:50 INFO extraLogger: [ShuffleMapTask]EndAt:1478228030483,TaskAttempt ID:207,Partition Id:2,Stage Id:36
+16/11/03 20:54:23 INFO extraLogger: [ResultTask]StartAt:1478228063370,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:23 INFO extraLogger: [iterator.FromParent]StartAt:1478228063370,RDD ID:95,Name:PythonRDD,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:23 INFO extraLogger: [iterator.FromParent]StartAt:1478228063372,RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:23 INFO extraLogger: [iterator.FromParent]StartAt:1478228063372,RDD ID:93,Name:ShuffledRDD,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:23 INFO extraLogger: [iterator.FromParent]EndAt:1478228063412,RDD ID:93,Name:ShuffledRDD,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:23 INFO extraLogger: [iterator.FromParent]EndAt:1478228063413,RDD ID:94,Name:MapPartitionedRDD,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:24 INFO extraLogger: [iterator.FromParent]EndAt:1478228064785,RDD ID:95,Name:PythonRDD,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:24 INFO extraLogger: [ResultTask]EndAt:1478228064790,TaskAttempt ID:220,Partition Id:2,Stage Id:37
+16/11/03 20:54:30 INFO extraLogger: [ShuffleMapTask]StartAt:1478228070892,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]StartAt:1478228070893,RDD ID:100,Name:PairwiseRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]StartAt:1478228070893,RDD ID:99,Name:PythonRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]StartAt:1478228070893,RDD ID:98,Name:UnionRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]StartAt:1478228070894,RDD ID:96,Name:PythonRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]StartAt:1478228070894,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]StartAt:1478228070919,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:30 INFO extraLogger: [iterator.FromParent]EndAt:1478228070995,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:31 INFO extraLogger: [iterator.FromParent]EndAt:1478228071078,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:36 INFO extraLogger: [iterator.FromParent]EndAt:1478228076267,RDD ID:96,Name:PythonRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:36 INFO extraLogger: [iterator.FromParent]EndAt:1478228076366,RDD ID:98,Name:UnionRDD,TaskAttempt ID:231,Partition Id:2,Stage Id:48
+16/11/03 20:54:40 INFO extraLogger: [iterator.FromParent]EndAt:1478228080701,RDD ID:99,Name:PythonRDD,TaskA16/11/03 20:54:36 INFO extraLogger: [iterator.FromParent]EndAt:1478228076566,RDD ID:96,Name:PythonRDD,TaskAttempt ID:229,Partition Id:6,Stage Id:48
+16/11/03 20:54:36 INFO extraLogger: [iterator.FromParent]EndAt:1478228076632,RDD ID:98,Name:UnionRDD,TaskAttempt ID:229,Partition Id:6,Stage Id:48
+16/11/03 20:54:40 INFO extraLogger: [iterator.FromParent]EndAt:1478228080698,RDD ID:99,Name:PythonRDD,TaskAttempt ID:229,Partition Id:6,Stage Id:48
+16/11/03 20:54:40 INFO extraLogger: [iterator.FromParent]EndAt:1478228080698,RDD ID:100,Name:PairwiseRDD,TaskAttempt ID:229,Partition Id:6,Stage Id:48
+16/11/03 20:54:41 INFO extraLogger: [ShuffleMapTask]EndAt:1478228081204,TaskAttempt ID:229,Partition Id:6,Stage Id:48
+16/11/03 20:55:12 INFO extraLogger: [ResultTask]StartAt:1478228112600,TaskAttempt ID:244,Partition Id:6,Stage Id:49
+16/11/03 20:55:12 INFO extraLogger: [iterator.FromParent]StartAt:1478228112600,RDD ID:103,Name:PythonRDD,TaskAttempt ID:244,Partition Id:6,Stage Id:49
+16/11/03 20:55:12 INFO extraLogger: [iterator.FromParent]StartAt:1478228112601,RDD ID:102,Name:MapPartitionedRDD,TaskAttempt ID:244,Partition Id:6,Stage Id:49
+16/11/03 20:55:12 INFO extraLogger: [iterator.FromParent]StartAt:1478228112623,RDD ID:101,Name:ShuffledRDD,Tas16/11/03 20:55:19 INFO extraLogger: [ShuffleMapTask]StartAt:1478228119915,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:20 INFO extraLogger: [iterator.FromParent]StartAt:1478228120006,RDD ID:108,Name:PairwiseRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:20 INFO extraLogger: [iterator.FromParent]StartAt:1478228120265,RDD ID:107,Name:PythonRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:20 INFO extraLogger: [iterator.FromParent]StartAt:1478228120698,RDD ID:106,Name:UnionRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:21 INFO extraLogger: [iterator.FromParent]StartAt:1478228121190,RDD ID:105,Name:PythonRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:21 INFO extraLogger: [iterator.FromParent]StartAt:1478228121557,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:21 INFO extraLogger: [iterator.FromParent]StartAt:1478228121815,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:22 INFO extraLogger: [iterator.FromParent]EndAt:1478228122208,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:259,Partition Id:13,Stage Id:60
+16/11/03 20:55:22 INFO extraLogger: [iterator.FromPare16/11/03 20:55:22 INFO extraLogger: [iterator.FromParent]EndAt:1478228122241,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:263,Partition Id:3,Stage Id:60
+16/11/03 20:55:22 INFO extraLogger: [iterator.FromParent]EndAt:1478228122490,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:263,Partition Id:3,Stage Id:60
+16/11/03 20:55:27 INFO extraLogger: [iterator.FromParent]EndAt:1478228127247,RDD ID:104,Name:PythonRDD,TaskAttempt ID:263,Partition Id:3,Stage Id:60
+16/11/03 20:55:27 INFO extraLogger: [iterator.FromParent]EndAt:1478228127258,RDD ID:106,Name:UnionRDD,TaskAttempt ID:263,Partition Id:3,Stage Id:60
+16/11/03 20:55:30 INFO extraLogger: [iterator.FromParent]EndAt:1478228130899,RDD ID:107,Name:PythonRDD,TaskAttempt ID:263,Partition Id:3,Stage Id:60
+16/11/03 20:55:30 INFO extraLogger: [iterator.FromParent]EndAt:1478228116/11/03 20:56:02 INFO extraLogger: [ResultTask]StartAt:1478228162350,TaskAttempt ID:268,Partition Id:4,Stage Id:61
+16/11/03 20:56:02 INFO extraLogger: [iterator.FromParent]StartAt:1478228162364,RDD16/11/03 20:56:10 INFO extraLogger: [ShuffleMapTask]StartAt:1478228170135,TaskAttempt ID:281,Partition Id:2,Stage Id:72
+16/11/03 20:56:10 INFO extraLogger: [iterator.FromParent]StartAt:1478228170238,RDD ID:116,Name:PairwiseRDD,TaskAttempt ID:281,Partition Id:2,Stage Id:72
+16/11/03 20:56:10 INFO extraLogger: [iterator.FromParent]StartAt:1478228170271,RDD ID:115,Name:PythonRDD,TaskAttempt ID:281,Partition Id:2,Stag16/11/03 20:56:10 INFO extraLogger: [ShuffleMapTask]StartAt:1478228170129,TaskAttempt ID:291,Partition Id:15,Stage Id:72
+16/11/03 20:56:10 INFO extraLogger: [iterator.FromParent]StartAt:1478228170255,RDD ID:116,Name:PairwiseRDD,TaskAttempt ID:291,Partition Id:15,Stage Id:72
+16/11/03 20:56:10 INFO extraLogger: [iterator.FromParenO extraLogger: [iterator.FromParent]StartAt:1478228170529,RDD ID:71,Name:MapPartitionedRDD,TaskAt16/11/03 20:56:10 INFO extraLogger: [ite16/11/03 20:56:10 INFO extraLogger: [iterator.FromParent]StartAt:1478228170728,RDD ID:70,Name:ShuffledRDD,TaskA16/11/03 20:56:10 INFO extraLogger: [iter16/11/03 20:56:10 INFO extraLogger: [iterator.FromParent]EndAt:1478228170997,RDD ID:70,Name:ShuffledRDD,TaskAtt16/11/03 20:56:11 INFO extraLogger: [iterator.FromParent]StartAt:1478228171039,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:291,Partition Id:15,Stage Id:72
+16/11/03 20:56:11 INFO extraLogger: 16/11/03 20:56:15 INFO extraLogger: [iterator.FromParent]EndAt:1478228175887,RDD ID:112,Name:PythonRDD,TaskAttempt ID:281,Partition Id:2,Stage Id:72
+16/11/03 20:56:15 INFO extraLogger: [iterator.FromParent]EndAt:1478228175926,RDD ID:114,Name:UnionRDD,TaskAttempt ID:281,Partition Id:2,Stage Id:72
+16/11/03 20:56:19 INFO extraLogger: [iterator.FromParent]EndAt:1478228179578,RDD ID:115,Name:PythonRDD,TaskAttempt ID:281,Partit16/11/03 20:56:13 INFO extraLogger: [iterator.FromParent]EndAt:1478228173496,RDD ID:113,Name:PythonRDD,TaskAttempt ID:291,Partition Id:15,Stage Id:72
+16/11/03 20:56:13 INFO extraLogger: [iterator.FromParent]EndAt:1478228173515,RDD ID:114,Name:UnionRDD,TaskAttempt ID:291,Partition Id:15,Stage Id:72
+16/11/03 20:56:13 INFO extraLogger: [iterator.FromParent]EndAt:1478228173531,RDD ID:115,Name:PythonRDD,TaskAttempt ID:291,Partition Id:15,Stage Id:72
+16/11/03 20:56:13 INFO extraLogger: [iterator.FromParent]EndAt:1478228173531,RDD ID:116,Name:PairwiseRDD,Tas16/11/03 20:56:52 INFO extraLogger: [iterator.FromParent]StartAt:1478228212203,RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:298,Partition Id:3,Stage Id:73
+16/11/03 20:56:52 INFO extraLogger: [iterator.FromParent]StartAt:1478228212252,RDD ID:117,Name:ShuffledRDD,TaskAttempt ID:298,Partition Id:3,Stage Id:73
+16/11/03 20:56:52 INFO extraLogger: [iterator.FromParent]EndAt:1478228212319,RDD ID:117,Name:ShuffledRDD,TaskAttempt ID:298,Partition Id:3,Stage Id:73
+16/11/03 20:56:52 INFO extraLogger: [iterator.FromParent]EndAt:1478228212335,RDD ID:118,Name:MapPartitionedRDD,TaskAttempt ID:298,Partition Id:3,Stage Id:73
+16/11/03 20:56:59 INFO extraLogger: [iterator.FromParent]EndAt:1478228219682,RDD ID:119,Name:PythonRDD,TaskAttempt ID:298,Partition Id:3,Stage Id:73
+16/11/03 20:56:59 INFO extraLogger: [ResultTask]EndAt:1478228219684,TaskAttempt ID:298,Partition Id:3,Stage Id:73
+16/11/03 20:56:59 INFO extraLogger: [ShuffleMapTask]StartAt:1478228219924,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:56:59 INFO extraLogger: [iterator.FromParent]StartAt:1478228219970,RDD ID:124,Name:PairwiseRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:00 INFO extraLogger: [iterator.FromParent]StartAt:1478228220078,RDD ID:123,Name:PythonRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:00 INFO extraLogger: [iterator.FromParent]StartAt:1478228220236,RDD ID:122,Name:UnionRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:00 INFO extraLogger: [iterator.FromParent]StartAt:1478228220253,RDD ID:121,Name:PythonRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:00 INFO extraLogger: [iterator.FromParent]StartAt:1478228220362,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:00 INFO extraLogger: [iterator.FromParent]StartAt:1478228220435,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:01 INFO extraLogger: [iterator.FromParent]EndAt:1478228221004,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:01 INFO extraLogger: [iterator.FromParent]EndAt:1478228221071,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:02 INFO extraLogger: [iterator.FromParent]EndAt:1478228222504,RDD ID:121,Name:PythonRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:02 INFO extraLogger: [iterator.FromParent]EndAt:1478228222519,RDD ID:122,Name:UnionRDD,TaskAttempt ID:312,Partition Id:11,Stage Id:84
+16/11/03 20:57:02 INFO extraLogger: [iterator.FromParent]EndAt:1478228222543,RDD ID:123,Name:PythonRDD,TaskAttempt ID:312,16/11/03 20:57:04 INFO extraLogger: [iterator.FromParent]EndAt:1478228224815,RDD ID:120,Name:PythonRDD,TaskAttempt ID:308,Partition Id:6,Stage Id:84
+16/11/03 20:57:04 INFO extraLogger: [iterator.FromParent]EndAt:1478228224857,RDD ID:122,Name:UnionRDD,TaskAttempt ID:308,Partition Id:6,Stage Id:84
+1616/11/03 20:57:49 INFO extraLogger: [ShuffleMapTask]StartAt:1478228269393,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269557,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269660,RDD ID:131,Name:PythonRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269814,RDD ID:130,Name:UnionRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269927,RDD ID:128,Name:PythonRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269928,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:50 INFO extraLogger: [iterator.FromParent]StartAt:1478228270041,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:50 INFO extraLogger: [iterator.FromParent]EndAt:1478228270133,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:16/11/03 20:57:49 INFO extraLogger: [ShuffleMapTask]StartAt:1478228269402,TaskAttempt ID:330,Partition Id:0,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269566,RDD ID:132,Name:PairwiseRDD,Ta16/11/03 20:57:54 INFO extraLogger: [iterator.FromParent]EndAt:1478228274971,RDD ID:128,Name:PythonRDD,TaskAttempt ID:325,Partition Id:4,Stage Id:96
+16/11/03 20:57:55 INFO extraLogger: [iterator.FromParent]EndAt:1478228275007,RDD ID:130,Name:UnionRDD,Task16/11/03 20:57:58 INFO extraLogger: [iterator.FromParent]EndAt:1478228278394,RDD ID:131,Name:PythonRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:58 INFO extraLogger: [iterator.FromParent]EndAt:1478228278395,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:57:58 INFO extraLogger: [ShuffleMapTask]EndAt:1478228278932,TaskAttempt ID:324,Partition Id:2,Stage Id:96
+16/11/03 20:58:31 INFO extraLogger: [ResultTask]StartAt:1478228311954,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312020,RDD ID:135,Name:PythonRDD,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312022,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312136,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312458,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312493,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [iterator.FromParent]EndAt:1478228313820,RDD ID:135,Name:PythonRDD,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [ResultTask]EndAt:1478228313823,TaskAttempt ID:344,Partition Id:3,Stage Id:97
+DD,T16/11/03 20:58:31 INFO extraLogger: [ResultTask]StartAt:1478228311946,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311946,RDD ID:135,Name:PythonRDD,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311995,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311995,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312131,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312197,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:39 INFO extraLogger: [iterator.FromParent]EndAt:1478228319511,RDD ID:135,Name:PythonRDD,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+16/11/03 20:58:39 INFO extraLogger: [ResultTask]EndAt:1478228319515,TaskAttempt ID:343,Partition Id:1,Stage Id:97
+135,Name:PythonRDD,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311952,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312020,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312439,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312440,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [iterator.FromParent]EndAt:1478228313790,RDD ID:135,Name:PythonRDD,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [ResultTask]EndAt:1478228313791,TaskAttempt ID:345,Partition Id:4,Stage Id:97
+tition Id:11,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [iterator.FromParent]EndAt:1478228271922,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:334,Partition Id:11,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [ShuffleMapTask]EndAt:1478228271941,TaskAttempt ID:334,Partition Id:11,Stage Id:96
+16/11/03 20:58:31 INFO extraLogger: [ResultTask]StartAt:1478228311948,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312020,RDD ID:135,Name:PythonRDD,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312021,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312136,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312406,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312477,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [iterator.FromParent]EndAt:1478228313885,RDD ID:135,Name:PythonRDD,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [ResultTask]EndAt:1478228313887,TaskAttempt ID:342,Partition Id:2,Stage Id:97
+arent]EndAt:1478228270061,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:332,Partition Id:6,Stage Id:96
+16/11/03 20:57:54 INFO extraLogger: [iterator.FromParent]EndAt:1478228274515,RDD ID:128,Name:PythonRDD,TaskAttempt ID:332,Partition Id:6,Stage Id:96
+16/11/03 20:57:54 INFO extraLogger: [iterator.FromParent]EndAt:1478228274532,RDD ID:130,Name:UnionRDD,TaskAttempt ID:332,Partition Id:6,Stage Id:96
+16/11/03 20:57:58 INFO extraLogger: [iterator.FromParent]EndAt:1478228278318,RDD ID:131,Name:PythonRDD,TaskAttempt ID:332,Partition Id:6,Stage Id:96
+16/11/03 20:57:58 INFO extraLogger: [iterator.FromParent]EndAt:1478228278319,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:332,Partition Id:6,Stage Id:96
+16/11/03 20:57:58 INFO extraLogger: [ShuffleMapTask]EndAt:1478228278939,TaskAttempt ID:332,Partition Id:6,Stage Id:96
+16/11/03 20:58:31 INFO extraLogger: [ResultTask]StartAt:1478228311952,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311952,RDD ID:135,Name:PythonRDD,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312021,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]StartAt:1478228312238,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312486,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312487,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [iterator.FromParent]EndAt:1478228313973,RDD ID:135,Name:PythonRDD,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [ResultTask]EndAt:1478228313974,TaskAttempt ID:340,Partition Id:6,Stage Id:97
+ythonRDD,TaskAttempt ID:326,Partition Id:5,Stage Id:96
+16/11/03 20:57:58 INFO extraLogger: [iterator.FromParent]EndAt:1478228278772,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:326,Partition Id:5,Stage Id:96
+16/11/03 20:57:59 INFO extraLogger: [ShuffleMapTask]EndAt:1478228279281,TaskAttempt ID:326,Partition Id:5,Stage Id:96
+16/11/03 20:58:31 INFO extraLogger: [ResultTask]StartAt:1478228311943,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311943,RDD ID:135,Name:PythonRDD,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311944,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:31 INFO extraLogger: [iterator.FromParent]StartAt:1478228311945,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312137,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312388,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [iterator.FromParent]EndAt:1478228313829,RDD ID:135,Name:PythonRDD,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [ResultTask]EndAt:1478228313831,TaskAttempt ID:346,Partition Id:5,Stage Id:97
+7,RDD ID:133,Name:ShuffledRDD,TaskAttempt ID:341,Partition Id:0,Stage Id:97
+16/11/03 20:58:32 INFO extraLogger: [iterator.FromParent]EndAt:1478228312348,RDD ID:134,Name:MapPartitionedRDD,TaskAttempt ID:341,Partition Id:0,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [iterator.FromParent]EndAt:1478228313582,RDD ID:135,Name:PythonRDD,TaskAttempt ID:341,Partition Id:0,Stage Id:97
+16/11/03 20:58:33 INFO extraLogger: [ResultTask]EndAt:1478228313584,TaskAttempt ID:341,Partition Id:0,Stage Id:97
+D ID:123,Name:PythonRDD,TaskAttempt ID:310,Partition Id:13,Stage Id:84
+16/11/03 20:57:01 INFO extraLogger: [iterator.FromParent]EndAt:1478228221588,RDD ID:124,Name:PairwiseRDD,TaskAttempt ID:310,Partition Id:13,Stage Id:84
+16/11/03 20:57:01 INFO extraLogger: [ShuffleMapTask]EndAt:1478228221608,TaskAttempt ID:310,Partition Id:13,Stage Id:84
+16/11/03 20:57:41 INFO extraLogger: [ResultTask]StartAt:1478228261200,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:41 INFO extraLogger: [iterator.FromParent]StartAt:1478228261200,RDD ID:127,Name:PythonRDD,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:41 INFO extraLogger: [iterator.FromParent]StartAt:1478228261201,RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:41 INFO extraLogger: [iterator.FromParent]StartAt:1478228261201,RDD ID:125,Name:ShuffledRDD,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:41 INFO extraLogger: [iterator.FromParent]EndAt:1478228261230,RDD ID:125,Name:ShuffledRDD,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:41 INFO extraLogger: [iterator.FromParent]EndAt:1478228261231,RDD ID:126,Name:MapPartitionedRDD,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:42 INFO extraLogger: [iterator.FromParent]EndAt:1478228262661,RDD ID:127,Name:PythonRDD,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:42 INFO extraLogger: [ResultTask]EndAt:1478228262663,TaskAttempt ID:319,Partition Id:5,Stage Id:85
+16/11/03 20:57:49 INFO extraLogger: [ShuffleMapTask]StartAt:1478228269389,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269390,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269494,RDD ID:131,Name:PythonRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269561,RDD ID:130,Name:UnionRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269602,RDD ID:129,Name:PythonRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269649,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]StartAt:1478228269677,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]EndAt:1478228269919,RDD ID:70,Name:ShuffledRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:49 INFO extraLogger: [iterator.FromParent]EndAt:1478228269993,RDD ID:71,Name:MapPartitionedRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [iterator.FromParent]EndAt:1478228271558,RDD ID:129,Name:PythonRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [iterator.FromParent]EndAt:1478228271567,RDD ID:130,Name:UnionRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [iterator.FromParent]EndAt:1478228271582,RDD ID:131,Name:PythonRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [iterator.FromParent]EndAt:1478228271582,RDD ID:132,Name:PairwiseRDD,TaskAttempt ID:335,Partition Id:13,Stage Id:96
+16/11/03 20:57:51 INFO extraLogger: [ShuffleMapTask]EndAt:1478228271602,TaskAttempt ID:335,Partition Id:13,Stage Id:96

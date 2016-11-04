@@ -1,0 +1,204 @@
+16/11/03 21:09:27 INFO myLogger: [UnionRDD]StartAt:28138171477025,TaskAttempt ID:27,Partition Id:6,Stage Id:3
+16/11/03 21:09:27 INFO myLogger: [UnionRDD]StartAt:28138171654538,TaskAttempt ID:35,Partition Id:8,Stage Id:3
+16/11/03 21:0916/11/03 21:10:54 INFO myLogger: [UnionRDD]StartAt:28675543164265,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO myLogger: [MapPartitionsRDD]StartAt:28675810862331,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO myLogger: [ShuffledRDD]StartAt:28675846188237,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO myLogger: [ShuffledRDD]EndAt:28676008279921,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:10:54 INFO myLogger: [MapPartitionsRDD]EndAt:28676010324386,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:11:00 INFO myLogger: [UnionRDD]EndAt:28681376523507,TaskAttempt ID:69,Partition Id:11,Stage Id:5
+16/11/03 21:12:36 INFO myLogger: [UnionRDD]StartAt:28777268812852,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO myLogger: [MapPartitionsRDD]StartAt:28777605856346,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO myLogger: [ShuffledRDD]StartAt:28777799455460,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO myLogger: [ShuffledRDD]EndAt:28777876592817,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:36 INFO myLogger: [MapPartitionsRDD]EndAt:28777891203243,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:12:47 INFO myLogger: [UnionRDD]EndAt:28788936608909,TaskAttempt ID:79,Partition Id:3,Stage Id:6
+16/11/03 21:14:00 INFO myLogger: [UnionRDD]StartAt:28861967723592,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO myLogger: [MapPartitionsRDD]StartAt:28861969350638,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO myLogger: [ShuffledRDD]StartAt:28861969927094,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO myLogger: [ShuffledRDD]EndAt:28862005290503,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:00 INFO myLogger: [MapPartitionsRDD]EndAt:28862099830123,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:14:19 INFO myLogger: [UnionRDD]EndAt:28880901790497,TaskAttempt ID:93,Partition Id:3,Stage Id:7
+16/11/03 21:15:37 INFO myLogger: [UnionRDD]StartAt:28959002518748,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO myLogger: [MapPartitionsRDD]StartAt:28959363134231,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO myLogger: [ShuffledRDD]StartAt:28959643707639,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO myLogger: [ShuffledRDD]EndAt:28959874454163,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:38 INFO myLogger: [MapPartitionsRDD]EndAt:28960106173767,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:15:53 INFO myLogger: [UnionRDD]EndAt:28974599003882,TaskAttempt ID:118,Partition Id:11,Stage Id:8
+16/11/03 21:17:02 INFO myLogger: [UnionRDD]StartAt:29043265265722,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO myLogger: [MapPartitionsRDD]StartAt:29043580854915,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO myLogger: [ShuffledRDD]StartAt:29043757500625,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO myLogger: [ShuffledRDD]EndAt:29043816986218,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:02 INFO myLogger: [MapPartitionsRDD]EndAt:29043973200376,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:17:15 INFO myLogger: [UnionRDD]EndAt:29056191079265,TaskAttempt ID:126,Partition Id:0,Stage Id:9
+16/11/03 21:18:38 INFO myLogger: [UnionRDD]StartAt:29139837968170,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:38 INFO myLogger: [MapPartitionsRDD]StartAt:29140094253551,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:39 INFO myLogger: [ShuffledRDD]StartAt:29140259760387,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:39 INFO myLogger: [ShuffledRDD]EndAt:29140293556616,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:39 INFO myLogger: [MapPartitionsRDD]EndAt:29140420579663,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:18:52 INFO myLogger: [UnionRDD]EndAt:29153942755246,TaskAttempt ID:147,Partition Id:8,Stage Id:10
+16/11/03 21:20:04 INFO myLogger: [UnionRDD]StartAt:29225267652290,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO myLogger: [MapPartitionsRDD]StartAt:29225435098261,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO myLogger: [ShuffledRDD]StartAt:29225601766496,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO myLogger: [ShuffledRDD]EndAt:29225702908228,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:04 INFO myLogger: [MapPartitionsRDD]EndAt:29225773855486,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:20:15 INFO myLogger: [UnionRDD]EndAt:29236549990589,TaskAttempt ID:158,Partition Id:3,Stage Id:11
+16/11/03 21:21:35 INFO myLogger: [UnionRDD]StartAt:29316545478481,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO myLogger: [MapPartitionsRDD]StartAt:29316628708518,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO myLogger: [ShuffledRDD]StartAt:29316654123035,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO myLogger: [ShuffledRDD]EndAt:29316706755507,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:35 INFO myLogger: [MapPartitionsRDD]EndAt:29316739163204,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:21:55 INFO myLogger: [UnionRDD]EndAt:29336896191996,TaskAttempt ID:171,Partition Id:0,Stage Id:12
+16/11/03 21:23:10 INFO myLogger: [MapPartitionsRDD]StartAt:29411147212673,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:10 INFO myLogger: [ShuffledRDD]StartAt:29411198156716,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:10 INFO myLogger: [ShuffledRDD]EndAt:29411312226883,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:10 INFO myLogger: [MapPartitionsRDD]EndAt:29411331881183,TaskAttempt ID:188,Partition Id:0,Stage Id:13
+16/11/03 21:23:33 INFO myLogger: [UnionRDD]StartAt:29434907832705,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:33 INFO myLogger: [MapPartitionsRDD]StartAt:29435109500334,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:34 INFO myLogger: [ShuffledRDD]StartAt:29435293687832,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:34 INFO myLogger: [ShuffledRDD]EndAt:29435372583339,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:34 INFO myLogger: [MapPartitionsRDD]EndAt:29435394883332,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:23:56 INFO myLogger: [UnionRDD]EndAt:29458052469753,TaskAttempt ID:196,Partition Id:0,Stage Id:24
+16/11/03 21:25:13 INFO myLogger: [MapPartitionsRDD]StartAt:29534686484721,TaskAttempt ID:211,Partition Id:0,Stage Id:25
+16/11/03 21:25:13 INFO myLogger: [ShuffledRDD]StartAt:29534780139726,TaskAttempt ID:211,Partition Id:016/11/03 21:25:39 INFO myLogger: [UnionRDD]StartAt:29560572079602,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO myLogger: [MapPartitionsRDD]StartAt:29560730746957,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO myLogger: [ShuffledRDD]StartAt:29560805838595,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO myLogger: [ShuffledRDD]EndAt:29560855050623,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:39 INFO myLogger: [MapPartitionsRDD]EndAt:29560889808789,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:25:51 INFO myLogger: [UnionRDD]EndAt:29572324311262,TaskAttempt ID:228,Partition Id:3,Stage Id:36
+16/11/03 21:27:41 INFO myLogger: [UnionRDD]StartAt:29682168982253,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:41 INFO myLogger: [MapPartitionsRDD]StartAt:29682546757127,TaskAttempt ID:253,Partition Id:11,Stage 16/11/03 21:27:15 INFO myLogger: [MapPartitionsRDD]StartAt:29206107705618,TaskAttempt ID:242,Partition Id:7,Stage Id:37
+1616/11/03 21:27:41 INFO myLogger: [ShuffledRDD]EndAt:29682671621474,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:41 INFO myLogger: [MapPartitionsRDD]EndAt:29682761869161,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:27:46 INFO myLogger: [UnionRDD]EndAt:29687999649185,TaskAttempt ID:253,Partition Id:11,Stage Id:48
+16/11/03 21:29:06 INFO myLogger: [MapPartitionsRDD]StartAt:29767161871953,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:06 INFO myLogger: [ShuffledRDD]StartAt:29767355811918,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:06 INFO myLogger: [ShuffledRDD]EndAt:29767423869059,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:06 INFO myLogger: [MapPartitionsRDD]EndAt:29767437836871,TaskAttempt ID:262,Partition Id:0,Stage Id:49
+16/11/03 21:29:30 INFO myLogger: [UnionRDD]StartAt:29791561725807,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:29:30 INFO myLogger: [MapPartitionsRDD]StartAt:29791803218929,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:16/11/03 21:29:31 INFO myLogger: [UnionRDD]StartAt:29792503394289,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:31 INFO myLogger: [MapPartitionsRDD]StartAt:29792937080003,TaskAttempt ID:270,Partition Id:3,Stage Id:60
+16/11/03 21:29:31 INFO myLogger: [ShuffledRDD]StartAt:29792963529711,TaskAttempt ID:270,Partition Id:316/11/03 21:29:54 INFO myLogger: [UnionRDD]EndAt:29815217957781,TaskAttempt ID:267,Partition Id:0,Stage Id:60
+16/11/03 21:31:28 INFO myLogger: [UnionRDD]StartAt:29909620458812,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:31:29 INFO myLogger: [MapPartitionsRDD]StartAt:29910601937375,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:31:29 INFO myLogger: [ShuffledRDD]StartAt:29910636949264,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 216/11/03 21:31:29 INFO myLogger: [MapPartitionsRDD]StartAt:29910806953862,TaskAttempt ID:302,Partition Id:11,Stage Id:72
+16/11/03 21:31:29 INFO myLogger: [ShuffledRDD]StartAt:29910851894161,TaskAttempt ID:302,Partition Id16/11/03 21:31:41 INFO myLogger: [UnionRDD]EndAt:29922577343241,TaskAttempt ID:297,Partition Id:3,Stage Id:72
+16/11/03 21:33:07 INFO myLogger: [MapPartitionsRDD]StartAt:30009096369194,TaskAttempt ID:312,Partition Id:0,Stage Id:73
+16/11/03 21:33:07 INFO myLogger: [ShuffledRDD]StartAt:30009096656412,TaskAttempt ID:312,Partition Id:0,Stage Id:73
+16/11/03 21:33:16/11/03 21:33:08 INFO myLogger: [MapPartitionsRDD]StartAt:30009284502020,TaskAttempt ID:313,Partition Id:3,Stage Id:73
+16/11/03 21:33:08 INFO myLogger: [ShuffledRDD]StartAt:30009301952047,TaskAttempt ID:313,Partitio16/116/11/03 21:33:23 INFO myLogger: [UnionRDD]StartAt:29573623473178,TaskAttempt ID:324,Partition Id:15,Stage Id:84
+16/11/03 21:33:23 INFO myLogger: [MapPartitionsRDD]StartAt:29573715319583,TaskAttempt ID:324,Partition Id:15,Stage Id:84
+16/11/03 21:33:23 INFO myLogger: [ShuffledRDD]StartAt:29573793353055,TaskAttempt ID:324,Partition Id:15,Stage Id:84
+16/11/03 21:33:23 INFO myLogger: [ShuffledRDD]EndAt:29573835728620,TaskAttempt ID:324,Partition Id:15,Stage Id:84
+16/11/03 21:33:23 INFO myLogger: [MapPartitionsRDD]EndAt:29573861754691,TaskAttempt ID:324,Partition Id:15,Sta16/11/03 21:33:44 INFO myLogger: [UnionRDD]EndAt:30045151366473,TaskAttempt ID:315,Partition Id:0,Stage Id:84
+16/11/03 216/11/03 21:34:46 INFO myLogger: [MapPartitionsRDD]StartAt:29657033944615,TaskAttempt ID:333,Partition Id:7,Stage Id:85
+16/11/03 21:34:46 INFO myLogger: [ShuffledRDD]StartAt:29657066090579,TaskAttempt ID:333,Partition Id:7,Stage Id:85
+16/11/03 21:34:46 INFO myLogger: [ShuffledRDD]EndAt:29657095686312,TaskAttempt ID:333,Partition Id:7,Stage Id:85
+16/11/03 21:34:46 INFO myLogger: [MapPartitionsRDD]EndAt:29657096462397,TaskAttempt ID:333,Partition Id:7,Stage Id:85
+16/11/03 21:35:01 INFO myLogger: [UnionRDD]StartAt:29671947763513,TaskAttempt ID:339,Partition Id:6,St16/11/03 21:35:24 INFO myLogger: [UnionRDD]EndAt:30145279654867,TaskAttempt ID:343,Partition Id:3,Stage Id:96
+on Id:6,Stage Id:96
+16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]StartAt:29672306985296,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+16/11/03 21:16/11/03 21:35:01 INFO myLogger: [MapPartitionsRDD]StartAt:30122994448369,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]StartAt:30123153109650,TaskAttempt ID:348,Partition 16/11/03 21:35:21 INFO myLogger: [UnionRDD]EndAt:29692275208522,TaskAttempt ID:339,Partition Id:6,Stage Id:96
+ion Id:11,Stage Id:96
+16/11/03 21:35:02 INFO myLogger: [MapPartitionsRDD]EndAt:30123195024371,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:35:17 INFO myLogger: [UnionRDD]EndAt:30138312304239,TaskAttempt ID:348,Partition Id:11,Stage Id:96
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]StartAt:30220617418552,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]StartAt:30220700781820,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]EndAt:30220819482377,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]EndAt:30220860678372,TaskAttempt ID:361,Partition Id:3,Stage Id:97
+ndAt:30122744213532,TaskAttempt ID:340,Partition Id:0,Stage Id:96
+16/11/03 21:35:11 INFO myLogger: [UnionRDD]EndAt:30132559814988,TaskAttempt ID:340,Partition Id:0,Stage Id:96
+46,Partition Id:7,Stage Id:96
+16/11/03 21:35:01 INFO myLogger: [ShuffledRDD]StartAt:29672273544843,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]EndAt:29672317585441,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:02 INFO myLogger: [MapPartitionsRDD]EndAt:29672424071882,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:35:21 INFO myLogger: [UnionRDD]EndAt:29691726758035,TaskAttempt ID:346,Partition Id:7,Stage Id:96
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]StartAt:29769796118748,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]StartAt:29769796589841,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]EndAt:29769831654741,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]EndAt:29769924411589,TaskAttempt ID:356,Partition Id:6,Stage Id:97
+ition Id:7,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]EndAt:29769856435841,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]EndAt:29769957914846,TaskAttempt ID:357,Partition Id:7,Stage Id:97
+Attempt ID:358,Partition Id:0,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]EndAt:30220754104371,TaskAttempt ID:358,Partition Id:0,Stage Id:97
+ogger: [UnionRDD]EndAt:29511268253276,TaskAttempt ID:207,Partition Id:9,Stage Id:24
+16/11/03 21:24:54 INFO myLogger: [UnionRDD]EndAt:29517071474376,TaskAttempt ID:195,Partition Id:1,Stage 16/11/03 21:25:13 INFO myLogger: [MapPartitionsRDD]StartAt:29536519727740,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:13 INFO myLogger: [ShuffledRDD]StartAt:29536569955687,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:13 INFO myLogger: [ShuffledRDD]EndAt:29536634097846,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/03 21:25:13 INFO myLogger: [MapPartitionsRDD]EndAt:29536661900490,TaskAttempt ID:217,Partition Id:4,Stage Id:25
+16/11/16/11/03 21:25:40 INFO myLogger: [UnionRDD]StartAt:29562897573001,TaskAttempt ID:221,Partition Id:1,Stage I16/1116/11/03 21:25:40 INFO myLogger: [UnionRDD]StartAt:29562995953569,TaskAttempt ID:231,Partition Id:9,Stage I16/1116/11/03 21:25:40 INFO myLogger: [MapPartitionsRDD]StartAt:29563338219080,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [MapPartitionsRDD]StartAt:29563395162593,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [ShuffledRDD]StartAt:29563428788982,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [ShuffledRDD]StartAt:29563495738666,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [ShuffledRDD]EndAt:29563497241034,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [ShuffledRDD]EndAt:29563598567333,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [MapPartitionsRDD]EndAt:29563604181650,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:25:40 INFO myLogger: [MapPartitionsRDD]EndAt:29563672662007,TaskAttempt ID:231,Partition Id:9,Stage Id:36116/11/03 21:26:51 INFO myLogger: [UnionRDD]EndAt:29634304568059,TaskAttempt ID:231,Partition Id:9,Stage Id:36
+16/11/03 21:26:55 INFO myLogger: [UnionRDD]EndAt:29638633670929,TaskAttempt ID:221,Partition Id:1,Stage Id:36
+16/11/03 21:27:16 INFO myLogger: [MapPartitionsRDD]StartAt:29658955467052,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:16 INFO myLogger: [ShuffledRDD]StartAt:29659047287415,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:16 INFO myLogger: [ShuffledRDD]EndAt:29659118602348,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:16 INFO myLogger: [MapPartitionsRDD]EndAt:29659140986696,TaskAttempt ID:238,Partition Id:4,Stage Id:37
+16/11/03 21:27:41 INFO myLogger: [UnionRDD]StartAt:29684342421827,TaskAttempt ID:258,Partition Id:13,Stage Id:48116/11/03 21:27:41 INFO myLogger: [UnionRDD]StartAt:29684667453391,TaskAttempt ID:250,Partition Id:5,Stage Id:48116/11/03 21:27:42 INFO myLogger: [MapPartitionsRDD]StartAt:29684852474853,TaskAttempt ID:258,Partition Id:13,Stage Id:41616/11/03 21:27:42 INFO myLogger: [ShuffledRDD]StartAt:29684919518247,TaskAttempt ID:258,Partition Id:13,Stage Id:16/16/11/03 21:27:42 INFO myLogger: [ShuffledRDD]EndAt:29684982027392,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:42 INFO myLogger: [MapPartitionsRDD]StartAt:29684987503163,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:42 INFO myLogger: [MapPartitionsRDD]EndAt:29685055877786,TaskAttempt ID:258,Partition Id:13,Stage Id:48
+16/11/03 21:27:42 INFO myLogger: [ShuffledRDD]StartAt:29685090697209,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:42 INFO myLogger: [ShuffledRDD]EndAt:29685195778056,TaskAttempt ID:250,Partition Id:5,Stage Id:48
+16/11/03 21:27:42 INFO myLogger: [MapPartitionsRDD]EndAt:29685261612732,TaskAttempt ID:250,Partition Id:5,Stage I16/11/03 21:28:41 INFO myLogger: [UnionRDD]EndAt:29744459232969,TaskAttempt ID:245,Partition Id:1,Stage Id:48
+16/11/03 21:28:46 INFO myLogger: [UnionRDD]EndAt:29748826742254,TaskAttempt ID:255,Partition Id:9,Stage Id:48
+16/11/03 21:29:06 INFO myLogger: [MapPartitionsRDD]StartAt:29769151894201,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:29:06 INFO myLogger: [ShuffledRDD]StartAt:29769201842849,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:29:06 INFO myLogger: [ShuffledRDD]EndAt:29769255754783,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/03 21:29:06 INFO myLogger: [MapPartitionsRDD]EndAt:29769295536805,TaskAttempt ID:263,Partition Id:4,Stage Id:49
+16/11/16/11/03 21:29:32 INFO myLogger: [UnionRDD]StartAt:29795024158048,TaskAttempt ID:281,Partition Id:12,Stage16/11/016/11/03 21:29:32 INFO myLogger: [UnionRDD]StartAt:29795245540556,TaskAttempt ID:275,Partition Id:4,Stage 16/11/16/11/03 21:29:32 INFO myLogger: [MapPartitionsRDD]StartAt:29795736380590,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:32 INFO myLogger: [ShuffledRDD]StartAt:29795769672164,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:33 INFO myLogger: [ShuffledRDD]EndAt:29795815300512,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:33 INFO myLogger: [MapPartitionsRDD]StartAt:29795845355725,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:33 INFO myLogger: [MapPartitionsRDD]EndAt:29795928862111,TaskAttempt ID:281,Partition Id:12,Stage Id:60
+16/11/03 21:29:33 INFO myLogger: [ShuffledRDD]StartAt:29795953460668,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:33 INFO myLogger: [ShuffledRDD]EndAt:29796098415884,TaskAttempt ID:275,Partition Id:4,Stage Id:60
+16/11/03 21:29:33 INFO myLogger: [MapPartitionsRDD]EndAt:29796147937191,TaskAttempt ID:275,Partition Id:4,Stage 16/11/03 21:29:47 INFO myLogger: [UnionRDD]EndAt:29810046277799,TaskAttempt ID:280,Partition Id:10,Stage Id:60
+16/11/03 21:29:53 INFO myLogger: [UnionRDD]EndAt:29815906431239,TaskAttempt ID:274,Partition Id:2,Stage Id:60
+16/11/16/11/03 21:31:04 INFO myLogger: [MapPartitionsRDD]StartAt:29886849049183,TaskAttempt ID:289,Partition Id:4,Stage 16/11/16/11/03 21:31:04 INFO myLogger: [ShuffledRDD]StartAt:29886977396511,TaskAttempt ID:289,Partition Id:4,Stage 16/11/16/11/03 21:31:04 INFO myLogger: [ShuffledRDD]EndAt:29887034911474,TaskAttempt ID:289,Partition Id:4,Stage 16/11/16/11/03 21:31:04 INFO myLogger: [MapPartitionsRDD]EndAt:29887094050120,TaskAttempt ID:289,Partition Id:4,Stage 16/11/16/11/03 21:31:30 INFO myLogger: [UnionRDD]StartAt:29913042785292,TaskAttempt ID:291,Partition Id:1,Stage 16/11/03 21:31:30 INFO myLogger: [UnionRDD]StartAt:29913299897517,TaskAttempt ID:306,Partition Id:13,Stage Id:72
+16/1116/11/03 21:31:31 INFO myLogger: [MapPartitionsRDD]StartAt:29914111003539,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:31:31 INFO myLogger: [ShuffledRDD]StartAt:29914194069355,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:31:31 INFO myLogger: [MapPartitionsRDD]StartAt:29914227992144,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:31:31 INFO myLogger: [ShuffledRDD]EndAt:29914273995303,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:31:31 INFO myLogger: [ShuffledRDD]StartAt:29914537591190,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:31:32 INFO myLogger: [MapPartitionsRDD]EndAt:29914817184568,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:31:32 INFO myLogger: [ShuffledRDD]EndAt:29914949541905,TaskAttempt ID:303,Partition Id:9,Stage Id:71616/11/03 21:31:32 INFO myLogger: [MapPartitionsRDD]EndAt:29915031722982,TaskAttempt ID:303,Partition Id:9,Stage Id:72116/11/03 21:32:28 INFO myLogger: [UnionRDD]EndAt:29970853335140,TaskAttempt ID:303,Partition Id:9,Stage Id:72
+16/11/03 21:32:47 INFO myLogger: [UnionRDD]EndAt:29989945168659,TaskAttempt ID:291,Partition Id:1,Stage Id:72
+16/11/03 21:33:08 INFO myLogger: [MapPartitionsRDD]StartAt:30011098857599,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:08 INFO myLogger: [ShuffledRDD]StartAt:30011148864460,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:08 INFO myLogger: [ShuffledRDD]EndAt:30011193348622,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:08 INFO myLogger: [MapPartitionsRDD]EndAt:30011215683260,TaskAttempt ID:311,Partition Id:5,Stage Id:73
+16/11/03 21:33:24 INFO myLogger: [UnionRDD]StartAt:30026978324072,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO myLogger: [UnionRDD]StartAt:30027111897287,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO myLogger: [MapPartitionsRDD]StartAt:30027587742290,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO myLogger: [ShuffledRDD]StartAt:30027644031606,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:24 INFO myLogger: [MapPartitionsRDD]StartAt:30027697328588,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:24 INFO myLogger: [ShuffledRDD]EndAt:30027701026361,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:25 INFO myLogger: [ShuffledRDD]StartAt:30027815126189,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:25 INFO myLogger: [MapPartitionsRDD]EndAt:30027913118015,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/03 21:33:25 INFO myLogger: [ShuffledRDD]EndAt:30027935895628,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:33:25 INFO myLogger: [MapPartitionsRDD]EndAt:30027988849200,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:24 INFO myLogger: [UnionRDD]EndAt:30087047489600,TaskAttempt ID:319,Partition Id:1,Stage Id:84
+16/11/03 21:34:28 INFO myLogger: [UnionRDD]EndAt:30091285621263,TaskAttempt ID:327,Partition Id:9,Stage Id:84
+16/11/16/11/03 21:34:46 INFO myLogger: [MapPartitionsRDD]StartAt:30109692992247,TaskAttempt ID:335,Partition Id:1,Stage Id:85
+16/11/03 21:34:46 INFO myLogger: [ShuffledRDD]StartAt:30109702958710,TaskAttempt ID:335,Partition Id:1,Stage Id:85
+16/11/03 21:34:46 INFO myLogger: [ShuffledRDD]EndAt:30109743862801,TaskAttempt ID:335,Partition Id:1,Stage Id:85
+16/11/03 21:34:46 INFO myLogger: [MapPartitionsRDD]EndAt:30109753956564,TaskAttempt ID:335,Partition Id:1,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [UnionRDD]StartAt:30125100849114,TaskAttempt ID:344,Partition Id:4,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [UnionRDD]StartAt:30125175980835,TaskAttempt ID:353,Partition Id:12,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [MapPartitionsRDD]StartAt:30125376286718,TaskAttempt ID:344,Partition Id:4,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]StartAt:30125417663414,TaskAttempt ID:344,Partition Id:4,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]EndAt:30125485163150,TaskAttempt ID:344,Partition Id:4,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [MapPartitionsRDD]EndAt:30125559565213,TaskAttempt ID:344,Partition Id:4,Stage Id:96
+16/11/03 21:35:02 INFO myLogger: [MapPartitionsRDD]StartAt:30125593318371,TaskAttempt ID:353,Partition Id:12,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]StartAt:30125676888901,TaskAttempt ID:353,Partition Id:12,Stage 16/11/16/11/03 21:35:02 INFO myLogger: [ShuffledRDD]EndAt:30125727152015,TaskAttempt ID:353,Partition Id:12,Stage 16/11/16/11/03 21:35:03 INFO myLogger: [MapPartitionsRDD]EndAt:30125891864187,TaskAttempt ID:353,Partition Id:12,Stage 16/11/16/11/03 21:35:21 INFO myLogger: [UnionRDD]EndAt:30144208272129,TaskAttempt ID:353,Partition Id:12,Stage 16/11/16/11/03 21:35:25 INFO myLogger: [UnionRDD]EndAt:30148304954994,TaskAttempt ID:344,Partition Id:4,Stage 16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]StartAt:30222665607147,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]StartAt:30222715930718,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]EndAt:30222791813705,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+16/11/03 21:36:40 INFO myLogger: [MapPartitionsRDD]EndAt:30222820883974,TaskAttempt ID:359,Partition Id:2,Stage Id:97
+Id:97
+ge Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]EndAt:30222803532795,TaskAttempt ID:362,Partition Id:5,Stage Id:97
+16/11/03 21:36:40 INFO myLogger: [MapPartitionsRDD]EndAt:30222830209977,TaskAttempt ID:362,Partition Id:5,Stage Id:97
+tage Id:97
+16/11/03 21:36:39 INFO myLogger: [ShuffledRDD]EndAt:30222624550277,TaskAttempt ID:355,Partition Id:1,Stage Id:97
+16/11/03 21:36:39 INFO myLogger: [MapPartitionsRDD]EndAt:30222682442550,TaskAttempt ID:355,Partition Id:1,Stage Id:97
